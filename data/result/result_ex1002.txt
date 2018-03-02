@@ -1,0 +1,237 @@
+BLASTN 2.2.31+
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=502
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 263130
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=2779
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 263130
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=347
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 263130
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=373
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 263130
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=860
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 263130
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=525
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 263130
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=1605
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 263130
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=99
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 263130
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=338
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 263130
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=113
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 263130
+
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

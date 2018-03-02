@@ -1,0 +1,12 @@
+#!/bin/sh
+
+path=$(readlink -f .)
+files=$(ls $path)
+
+for filename in $files
+do
+TxtName=$(basename $filename .out)
+cp $filename  $path/txt_res/$TxtName.txt
+
+
+done

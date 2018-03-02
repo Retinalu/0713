@@ -1,0 +1,394 @@
+BLASTN 2.2.31+
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=305
+
+
+ Score = 62.6 bits (68),  Expect = 2e-14
+ Identities = 52/59 (88%), Gaps = 5/59 (8%)
+ Strand=Plus/Minus
+
+Query  473  GTCAGTGTTATCCCAGGAGGCTGCCTTCGCCATCGGTATTCCTCCACATCTCTACGCat  531
+            ||||||||||||||| ||||||||  |||| | ||||||| |||||||| |||||||||
+Sbjct  282  GTCAGTGTTATCCCA-GAGGCTGC--TCGCTACCGGTATT-CTCCACAT-TCTACGCAT  229
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 157341
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=193
+
+
+ Score = 21.1 bits (22),  Expect = 0.069
+ Identities = 18/21 (86%), Gaps = 1/21 (5%)
+ Strand=Plus/Plus
+
+Query  504  ATCGGTATTCCTCCACATCTC  524
+            |||||  ||| ||||||||||
+Sbjct  40   ATCGGCCTTC-TCCACATCTC  59
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 157341
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=271
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 157341
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=1098
+
+
+ Score = 77.0 bits (84),  Expect = 1e-18
+ Identities = 51/54 (94%), Gaps = 2/54 (4%)
+ Strand=Plus/Minus
+
+Query  465  GCATGAGCGTCAGTGTTATCCCAGGAGGCTG-CCTTCGCCATCGGTATTCCTCC  517
+            |||||||||||||||||||||||||||||||  |||||||| ||||||||||||
+Sbjct  485  GCATGAGCGTCAGTGTTATCCCAGGAGGCTGTTCTTCGCCA-CGGTATTCCTCC  433
+
+
+ Score = 53.6 bits (58),  Expect = 1e-11
+ Identities = 47/55 (85%), Gaps = 3/55 (5%)
+ Strand=Plus/Minus
+
+Query  479  GTTATCCCAGGAGGCTGCCTTCGCCATCGGTA-TTCCTCCACATCTC-TACGCat  531
+            |||||||||| ||| ||||||||||||||| |  |||||||||  || |||||||
+Sbjct  871  GTTATCCCAG-AGGTTGCCTTCGCCATCGGCACCTCCTCCACACTTCTTACGCAT  818
+
+
+ Score = 35.6 bits (38),  Expect = 3e-06
+ Identities = 19/19 (100%), Gaps = 0/19 (0%)
+ Strand=Plus/Plus
+
+Query  504  ATCGGTATTCCTCCACATC  522
+            |||||||||||||||||||
+Sbjct  47   ATCGGTATTCCTCCACATC  65
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 157341
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=475
+
+
+ Score = 30.1 bits (32),  Expect = 1e-04
+ Identities = 18/19 (95%), Gaps = 0/19 (0%)
+ Strand=Plus/Plus
+
+Query  504  ATCGGTATTCCTCCACATC  522
+            |||| ||||||||||||||
+Sbjct  325  ATCGATATTCCTCCACATC  343
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 157341
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=282
+
+
+ Score = 64.4 bits (70),  Expect = 6e-15
+ Identities = 58/68 (85%), Gaps = 4/68 (6%)
+ Strand=Plus/Minus
+
+Query  465  GCATGAGCGTCAGT-GTTATCCCAGGAGGCTGCCTTCGCCATCGGTATTCCTCCACATCT  523
+            ||||||||||||   |||||||||| |||| |||||||||||||| ||| ||||||| ||
+Sbjct  274  GCATGAGCGTCAAAAGTTATCCCAG-AGGCCGCCTTCGCCATCGGCATT-CTCCACA-CT  218
+
+Query  524  CTACGCat  531
+              ||||||
+Sbjct  217  TCACGCAT  210
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 157341
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=233
+
+
+ Score = 64.4 bits (70),  Expect = 6e-15
+ Identities = 54/63 (86%), Gaps = 4/63 (6%)
+ Strand=Plus/Plus
+
+Query  464  TGCATGAGCGTCAGTGTTA-TCCCAGGAGG--CTGCCTTCGCCATCGGTATTCCTCCACA  520
+            |||||| || ||  ||||  ||||||||||  ||||||||||||||||||||||||| ||
+Sbjct  25   TGCATG-GCATCGATGTTCCTCCCAGGAGGAGCTGCCTTCGCCATCGGTATTCCTCCGCA  83
+
+Query  521  TCT  523
+            |||
+Sbjct  84   TCT  86
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 157341
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=277
+
+
+ Score = 87.8 bits (96),  Expect = 6e-22
+ Identities = 59/64 (92%), Gaps = 4/64 (6%)
+ Strand=Plus/Minus
+
+Query  466  CATGAGCGTCAGTGTTATCCCAGGAGGCTGCCTTCGCCATCGGTATTCCTCCACATCTCT  525
+            |||||||||||||||||||| |||||||||||   |||||||| ||||||||||||||||
+Sbjct  267  CATGAGCGTCAGTGTTATCC-AGGAGGCTGCC---GCCATCGGCATTCCTCCACATCTCT  212
+
+Query  526  ACGC  529
+            ||||
+Sbjct  211  ACGC  208
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 157341
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=260
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 157341
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=282
+
+
+ Score = 91.5 bits (100),  Expect = 5e-23
+ Identities = 62/67 (93%), Gaps = 2/67 (3%)
+ Strand=Plus/Minus
+
+Query  464  TGCATGAGCGTCAGTGTTATCCCAGGAGGCTGCCTTCGCCATCGGTATTCCTCCACATC-  522
+            |||||||||| | | ||||||||||||||| |||||||||||||||||||||||||||| 
+Sbjct  265  TGCATGAGCGCC-GCGTTATCCCAGGAGGCCGCCTTCGCCATCGGTATTCCTCCACATCT  207
+
+Query  523  TCTACGC  529
+            |||||||
+Sbjct  206  TCTACGC  200
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 157341
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=246
+
+
+ Score = 69.8 bits (76),  Expect = 2e-16
+ Identities = 54/62 (87%), Gaps = 2/62 (3%)
+ Strand=Plus/Plus
+
+Query  464  TGCATGAGCGTCAGTGTT-ATCCCAGGAG-GCTGCCTTCGCCATCGGTATTCCTCCACAT  521
+            ||||||||||||| |||| | | |  ||| ||| ||||||||||||||||||||||||||
+Sbjct  17   TGCATGAGCGTCAATGTTCAGCGCTCGAGAGCTACCTTCGCCATCGGTATTCCTCCACAT  76
+
+Query  522  CT  523
+            ||
+Sbjct  77   CT  78
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 157341
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= <unknown description>
+
+Length=745
+
+
+ Score = 53.6 bits (58),  Expect = 1e-11
+ Identities = 51/61 (84%), Gaps = 7/61 (11%)
+ Strand=Plus/Minus
+
+Query  472  CGTCAGTGTTATCCCAGGAG-GCTGCCTTCGCCATCGGTATTCCTCCACATCTCTACGCa  530
+            |||||||   ||||   ||| ||||||||||||| |||||||||||||  ||||||||||
+Sbjct  725  CGTCAGT---ATCCTGCGAGTGCTGCCTTCGCCA-CGGTATTCCTCCA--TCTCTACGCA  672
+
+Query  531  t  531
+            |
+Sbjct  671  T  671
+
+
+ Score = 33.7 bits (36),  Expect = 1e-05
+ Identities = 41/56 (73%), Gaps = 9/56 (16%)
+ Strand=Plus/Minus
+
+Query  476  AGTGTTATCCCAGGAGGCTGCCTTCGCCATCGGTATTCCTCCACATCTCTACGCat  531
+            ||||||||||   ||||| |||   |||||||| | ||      ||||||||||||
+Sbjct  237  AGTGTTATCCTGCGAGGCCGCC---GCCATCGGCACTC------ATCTCTACGCAT  191
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 157341
+
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2
