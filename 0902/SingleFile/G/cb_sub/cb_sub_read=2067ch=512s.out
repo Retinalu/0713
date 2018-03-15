@@ -1,0 +1,86 @@
+BLASTN 2.2.31+
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= 
+Length=4554
+
+
+ Score = 48.2 bits (52),  Expect = 8e-09
+ Identities = 192/278 (69%), Gaps = 31/278 (11%)
+ Strand=Plus/Plus
+
+Query  252   TTTCGCGTTGCATCGAATTAATCCACATCATCCACCGCTTGTGCGGGTCCCCGTCAATTC  311
+             |||||||| ||||||| | ||||  |||||||  |||  | ||| | | |   ||| |  
+Sbjct  3052  TTTCGCGTCGCATCGA-TCAATCG-CATCATCGCCCG--TATGCCGATACA--TCAGTCT  3105
+
+Query  312   CTTTGAGTTTTAATCTTGCGACCGTA-CTCCCCAGGCGGTCAACTTCACGCGTTAGC-TA  369
+             |  ||| ||| ||||||  | ||||| |||   ||||| ||  ||| | ||||  || | 
+Sbjct  3106  CGCTGATTTTCAATCTTAGG-CCGTAACTCTGAAGGCG-TCGGCTTAA-GCGTCGGCCTG  3162
+
+Query  370   CGTTACTAAGG-AAATGAATCCCCAACAACTAGTTGACATCGTTTAGGGCGTGGACTACC  428
+             ||| ||||||| |||||||| |  | | ||||   | |||| |   ||||||| ||||| 
+Sbjct  3163  CGT-ACTAAGGGAAATGAATGCTGA-CGACTAC--GGCATCATG--GGGCGTG-ACTACT  3215
+
+Query  429   AGGGTATCTAATCCTGTTTGCTCCCCACGCTTTCGTGCAT--GAGCGTCAGTGTTATCCC  486
+              | |||||  |  ||||| ||||||| ||||||||||     |||||||   | ||||  
+Sbjct  3216  -GAGTATCACAATCTGTT-GCTCCCCGCGCTTTCGTGGCGCCGAGCGTC---GATATCGA  3270
+
+Query  487   AGGAGGCTGCCTTCGCCATCGGTATTCCTCCACATCTC  524
+               || ||  | | ||   ||||||||||||| ||||||
+Sbjct  3271  --GACGCGCCATGCG---TCGGTATTCCTCCGCATCTC  3303
+
+
+ Score = 41.0 bits (44),  Expect = 1e-06
+ Identities = 80/112 (71%), Gaps = 11/112 (10%)
+ Strand=Plus/Plus
+
+Query  408   TCGTTTAGGGCGTGGACTACCAGG-GTATC-TAATCCTGTTTGCTCCCCACGCTTTCGTG  465
+             || ||| |||||||  || ||||  ||||| ||||||| |||||||   |||||| ||||
+Sbjct  1039  TCATTTGGGGCGTGAGCTGCCAGAAGTATCCTAATCCTCTTTGCTC---ACGCTT-CGTG  1094
+
+Query  466   CATGA-GCGTCAGTGTTATCCCAGGAGGCTGCCTTCGCCATCGGTATTCCTC  516
+             |   | || || ||  ||||    || |||||  |   ||||||||||| ||
+Sbjct  1095  CGCAAAGCATCGGTAATATC----GAAGCTGCGCTAAGCATCGGTATTCTTC  1142
+
+
+ Score = 41.0 bits (44),  Expect = 1e-06
+ Identities = 55/72 (76%), Gaps = 6/72 (8%)
+ Strand=Plus/Plus
+
+Query  394   ACAACTAGTTGACATCGTTTAGGGCGTGGACTACCAGGGTATCTAATCCTGTTTGCTCCC  453
+             || |||| ||| |||  |||||| ||||  || ||  |||||||||||||  ||  |  |
+Sbjct  1658  ACGACTAATTGTCAT--TTTAGG-CGTGAGCTGCC--GGTATCTAATCCTAATT-TTAAC  1711
+
+Query  454   CACGCTTTCGTG  465
+             ||||||||||||
+Sbjct  1712  CACGCTTTCGTG  1723
+
+
+ Score = 41.0 bits (44),  Expect = 1e-06
+ Identities = 30/34 (88%), Gaps = 1/34 (3%)
+ Strand=Plus/Minus
+
+Query  156   GCTGACGACAGCCATGCAGCACCTGTGTCCACTT  189
+             || |||||||||||||||||||| | || |||||
+Sbjct  2032  GCCGACGACAGCCATGCAGCACC-GCGTTCACTT  2000
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 2423826
+
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

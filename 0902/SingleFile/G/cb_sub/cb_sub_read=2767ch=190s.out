@@ -1,0 +1,80 @@
+BLASTN 2.2.31+
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= 
+Length=10217
+
+
+ Score = 30.1 bits (32),  Expect = 0.005
+ Identities = 19/21 (90%), Gaps = 0/21 (0%)
+ Strand=Plus/Plus
+
+Query  238   GGGTAGGTAAGGTTTTTCGCG  258
+             ||||| ||||||||||| |||
+Sbjct  5947  GGGTAAGTAAGGTTTTTGGCG  5967
+
+
+ Score = 26.5 bits (28),  Expect = 0.056
+ Identities = 16/17 (94%), Gaps = 0/17 (0%)
+ Strand=Plus/Minus
+
+Query  159   GACGACAGCCATGCAGC  175
+             ||||||||||| |||||
+Sbjct  5578  GACGACAGCCACGCAGC  5562
+
+
+ Score = 24.7 bits (26),  Expect = 0.20
+ Identities = 16/18 (89%), Gaps = 0/18 (0%)
+ Strand=Plus/Minus
+
+Query  145   TCACGACACGAGCTGACG  162
+             || ||| |||||||||||
+Sbjct  2193  TCTCGATACGAGCTGACG  2176
+
+
+ Score = 22.9 bits (24),  Expect = 0.68
+ Identities = 14/15 (93%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  491   GGCTGCCTTCGCCAT  505
+             |||||||||||| ||
+Sbjct  7249  GGCTGCCTTCGCTAT  7263
+
+
+ Score = 21.1 bits (22),  Expect = 2.4
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  400  AGTTGACATCG  410
+            |||||||||||
+Sbjct  843  AGTTGACATCG  833
+
+
+ Score = 21.1 bits (22),  Expect = 2.4
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  495   GCCTTCGCCAT  505
+             |||||||||||
+Sbjct  4405  GCCTTCGCCAT  4395
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 5437133
+
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

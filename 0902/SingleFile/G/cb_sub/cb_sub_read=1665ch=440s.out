@@ -1,0 +1,518 @@
+BLASTN 2.2.31+
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= 
+Length=6428
+
+
+ Score = 289 bits (320),  Expect = 2e-81
+ Identities = 397/526 (75%), Gaps = 74/526 (14%)
+ Strand=Plus/Plus
+
+Query  32    ACTTGACGTCATCCCCACCTTCCTCCGGTTTGTCACCGGCAGTCTCTCTAGAGTGCCCTT  91
+             ||||||||||||||     | ||||| |||||||||||||| |||||       ||||| 
+Sbjct  5435  ACTTGACGTCATCC-----TACCTCCTGTTTGTCACCGGCAATCTCT-------GCCCTC  5482
+
+Query  92    TCGTAGCAACTAGA-GACAAGGG-TTGCGCTCGTTGCGGGACTTAACCCAACATCTCACG  149
+             |     |||||||| ||||||   ||||| ||||||| |         |||  |||  ||
+Sbjct  5483  TTT---CAACTAGAAGACAAGAAATTGCG-TCGTTGCAGA--------CAA--TCTG-CG  5527
+
+Query  150   ACACGAGCTGACGACAGCCATGCAGCACCTGTGTCCACTTTCTCTTTCGAGCACCTAATG  209
+             ||| ||   ||||||| || |        ||  || |||| |||||||| ||| ||    
+Sbjct  5528  ACATGAC--GACGACAACCGTA-------TGACTC-ACTT-CTCTTTCG-GCAACT----  5571
+
+Query  210   CATCTCTGCTTCGTTAGTGGCATGTCAAGGGTAGGTAAGGTTTTTCGCGTTGCATCGAAT  269
+             ||||| |  ||||||| |   ||||| ||||||||||||||||| |||||||| |||| |
+Sbjct  5572  CATCTTTCTTTCGTTAATTA-ATGTCGAGGGTAGGTAAGGTTTT-CGCGTTGCGTCGAGT  5629
+
+Query  270   TAATCCACATCATCCACCGCTTGTGCGGGTCCCCGTCAATTCCTTTGAGTTTTAATCTTG  329
+               ||||||||||||| |      |||||||||||||||||||||||| ||||||||   |
+Sbjct  5630  --ATCCACATCATCCGCAA----TGCGGGTCCCCGTCAATTCCTTTG-GTTTTAAT---G  5679
+
+Query  330   CGACCGTACTCCCCAGGCGGTCAACTTCACGCGTTAGCTACGTTACTAAGGAAATGAATC  389
+             ||||||||||||||||||||||  |  |||     ||||||||||||   ||||||||||
+Sbjct  5680  CGACCGTACTCCCCAGGCGGTCC-CAGCACTGACCAGCTACGTTACT---GAAATGAATC  5735
+
+Query  390   CCCAACAACTAGTTGACATCGTTT-AGGGCGTGGACTACCAGGG-TATC-TAATCCTGTT  446
+             || ||||||| | ||||||||||| | |||||||| |  | ||| |||| ||||||||||
+Sbjct  5736  CC-AACAACTGGCTGACATCGTTTGAAGGCGTGGATTTGCTGGGGTATCCTAATCCTGTT  5794
+
+Query  447   TGCTCCCCACGCTTTCGTGCATGAGCGTCAGTGTTATCCCAGGAGGCTGCC-TTCGCCAT  505
+             |       |||||||||||||||||||||||||||||||| |||||||||| || |||||
+Sbjct  5795  TAT-----ACGCTTTCGTGCATGAGCGTCAGTGTTATCCCGGGAGGCTGCCTTTAGCCAT  5849
+
+Query  506   CGGTATTCCTCCACATCT-CTACGCatatatatata-atatatata  549
+             |||||||||| ||||||| || |||   ||||||||  ||||||||
+Sbjct  5850  CGGTATTCCT-CACATCTCCTGCGCGGCTATATATATTTATATATA  5894
+
+
+ Score = 266 bits (294),  Expect = 2e-74
+ Identities = 276/343 (80%), Gaps = 28/343 (8%)
+ Strand=Plus/Plus
+
+Query  214   TCTGCTTCGTTAGTGGCATGTCAAGGGTAGGTAAGGTTTTTCGCGTTGCATCGAATTAAT  273
+             |||||| |||||||   |||||| ||||||    |   ||||||| |||||||| | |||
+Sbjct  4625  TCTGCT-CGTTAGTA--ATGTCA-GGGTAGAGTGGAGATTTCGCGGTGCATCGAGT-AAT  4679
+
+Query  274   CCACATCATCCACCGCTTGTGCGGGTCCCCGTCAATTCCTTTGAGTTTT-AATCT---TG  329
+             |||||||||||||||||||||||||||   |  |||||||||||||||| |||||   ||
+Sbjct  4680  CCACATCATCCACCGCTTGTGCGGGTCT--GATAATTCCTTTGAGTTTTTAATCTCGCTG  4737
+
+Query  330   CGACCGTACTCCCCAGGCGGTCAACTTCACGCGTT---AGCTACGTTACTAAGGAAATGA  386
+             || || | |||    | ||||||||||| |||| |   |||||||||||||  |||  ||
+Sbjct  4738  CGGCCATGCTCT---GACGGTCAACTTC-CGCGATGAAAGCTACGTTACTA--GAATAGA  4791
+
+Query  387   ATCCCCAACAACTAGTTGACATCGTTTAGGGCGTGGACTACCAGGGTATCTAATCCTGTT  446
+                | |||||||| || ||| |  ||||||||||||||| | ||||||||||||||||||
+Sbjct  4792  TCACACAACAACTGGT-GACGT--TTTAGGGCGTGGACTGC-AGGGTATCTAATCCTGTT  4847
+
+Query  447   TGCTCCCCACGCTTTCGTGCATGAGCGTCAGTGTTATCCCAGGAGGCTGCCTTCGCCATC  506
+             |||||||||||||||  | ||||  | |||||||||||||||||||||||||||||||||
+Sbjct  4848  TGCTCCCCACGCTTTTTT-CATG--CATCAGTGTTATCCCAGGAGGCTGCCTTCGCCATC  4904
+
+Query  507   GGTATTCCTCCACATCTC-TACGCatatatatataatatatat  548
+              |||||||||||||||||   |||   |||||||| ||| |||
+Sbjct  4905  AGTATTCCTCCACATCTCACGCGCGGCTATATATAGTATGTAT  4947
+
+
+ Score = 250 bits (276),  Expect = 2e-69
+ Identities = 249/308 (81%), Gaps = 31/308 (10%)
+ Strand=Plus/Minus
+
+Query  22    GGCCATGAGGACTTGACGTCATCCCCACCTTCCTCCGGTT-TGTCACCGGCAGTCTCTCT  80
+             |||||||||||||||||||||||||||||| ||||||| | |||||||||||||||||  
+Sbjct  2239  GGCCATGAGGACTTGACGTCATCCCCACCT-CCTCCGGCTCTGTCACCGGCAGTCTCT--  2183
+
+Query  81    AGAGTGCCCTTTCGTAGCAACTAGAGACAAGGGTTGCGCTCGTTGCGGGACTTAACCCAA  140
+             ||||||||||| |  |||||| |||||||||||||| |  | |   || | |||||||||
+Sbjct  2182  AGAGTGCCCTTGCA-AGCAACCAGAGACAAGGGTTGGGTGCCTGCTGGAATTTAACCCAA  2124
+
+Query  141   CATCTCACGACACGAGCTGACGA--CAGCCATGCAGCACCTGTGTCCACTTTCTCTTTCG  198
+             |||||||||||||||  ||||||  |||||||||||||||||||||||      |||| |
+Sbjct  2123  CATCTCACGACACGA--TGACGAGACAGCCATGCAGCACCTGTGTCCA------CTTTAG  2072
+
+Query  199   AGCACCTAATGCATCTCTGCTTCGTTAGTGGCATGTCAAGGGTAGGTAAGG-TTTTTCGC  257
+             |||||| |||||||| |||||||||||   ||||||||   ||||| |||| ||||||| 
+Sbjct  2071  AGCACC-AATGCATC-CTGCTTCGTTA---GCATGTCATAAGTAGGCAAGGTTTTTTCGT  2017
+
+Query  258   GTTGCATCGAATTAATCCACATCATCCACCGCTTGTGCGGGTCCCCGTCAATTCCTTTGA  317
+             |||| |  ||||||||     ||||  |  ||||||  ||||  | ||||||| ||||||
+Sbjct  2016  GTTGTACTGAATTAAT-----TCAT--ATTGCTTGT-AGGGT--CTGTCAATTTCTTTGA  1967
+
+Query  318   GTTTTAAT  325
+             |||| |||
+Sbjct  1966  GTTTCAAT  1959
+
+
+ Score = 221 bits (244),  Expect = 8e-61
+ Identities = 239/297 (80%), Gaps = 20/297 (7%)
+ Strand=Plus/Minus
+
+Query  33    CTTGACGTCATCCCCACCTTCCTCCGGTTTGTCACCGGCAGTCTCTCTAGAGTGCCCTTT  92
+             || ||||||||||| |||||||||||||||||||||||||||||||| |||||||||| |
+Sbjct  5392  CTGGACGTCATCCC-ACCTTCCTCCGGTTTGTCACCGGCAGTCTCTCCAGAGTGCCCTCT  5334
+
+Query  93    CGTAGCAACTAGAGACAAG-GGTTGCGCTCGTTGCGGGACTTAACCCAACATCTCACGAC  151
+              | ||||||   ||| | | || |||||  | || | |||  ||| ||||||||||||||
+Sbjct  5333  -GCAGCAACGGCAGAGATGCGGCTGCGCCTGCTGGGTGAC-CAACTCAACATCTCACGAC  5276
+
+Query  152   -ACGAGCTGACG--ACAGCCATGCAGCACCTGTGTCCACTTTCTCTTTCGAGCACCTA-A  207
+              | |||| ||||  |||||||||  ||||||| ||||||| |||| ||||||||||||  
+Sbjct  5275  AATGAGCCGACGACACAGCCATG--GCACCTGCGTCCACTCTCTC-TTCGAGCACCTATC  5219
+
+Query  208   TGCATCTCTGCTTCGTTAGTGGCATGTCAAGGGTAGGTAAGGTTTTTCGCGTTGCATCGA  267
+              | ||||| || | |  ||||||||||||| || |||||||| |||||||||||||||||
+Sbjct  5218  GGTATCTCAGCCT-GCCAGTGGCATGTCAA-GGCAGGTAAGG-TTTTCGCGTTGCATCGA  5162
+
+Query  268   ATTAATCCACATCATC-CACCGCTTGTGCGGGTCCCCGTCAATTCCTTTGAGTTTTA  323
+             ||||| |   ||||||  |||| |||||  |||||||  |    |||||||||||||
+Sbjct  5161  ATTAACCATTATCATCTGACCG-TTGTG-TGGTCCCCTGC---CCCTTTGAGTTTTA  5110
+
+
+ Score = 210 bits (232),  Expect = 1e-57
+ Identities = 373/517 (72%), Gaps = 74/517 (14%)
+ Strand=Plus/Plus
+
+Query  38    CGTCATCCC-CACCTTCCTCCGGTTTGTCACCGGCAGTCTCTCTAGAGTGCCCTTTCGTA  96
+             || |||||| |  ||||||| | |||||| ||  |  |||||||| | |  ||   ||||
+Sbjct  2271  CGACATCCCACTGCTTCCTC-GATTTGTCGCCATC--TCTCTCTAAATTAACCG--CGTA  2325
+
+Query  97    GCAACTAGAGACAAGGGTTGCGCTCGTTGCGGGACTTAACCCAACATCTCACGACACGAG  156
+              | |||| ||||||| | ||||||||||  | |||   | |||||||||  |||||||||
+Sbjct  2326  ACGACTA-AGACAAGAGGTGCGCTCGTT--GAGAC---AACCAACATCT--CGACACGAG  2377
+
+Query  157   CTGACGACAGCCATGCAGCACCTGTGTCCACTTTCTCTTTCGAGCACCTAATGCATCTCT  216
+             ||||| |  | | ||||         |||    |||||||||| | ||||||||||||||
+Sbjct  2378  CTGAC-ATTGTCCTGCA--------ATCC---CTCTCTTTCGA-CGCCTAATGCATCTCT  2424
+
+Query  217   GCTTCGTTAGTGGCATGTCAAGGGTAGGTAAGGTTTTTCGCGTTGCATCGAATTAATCCA  276
+             || | |  | || ||  |||  |  | |  ||  |||||||| ||||||| | |||||  
+Sbjct  2425  GCGTTGAGAATGTCA--TCATCGAGAAGCGAG--TTTTCGCG-TGCATCGGA-TAATC--  2476
+
+Query  277   CATCATCCACCGCTT-GTGCGGGTCCCCGTC-AATTCCTTTGAGTTTTAATCTTGCGACC  334
+             ||||||||||||||| | ||| ||   |||| ||||||     | |||||||||  | ||
+Sbjct  2477  CATCATCCACCGCTTAGCGCGAGT---CGTCAAATTCCGCACGGGTTTAATCTTTGGGCC  2533
+
+Query  335   GTACTCCCCAGGCGGTCAACTTCACGCGTTAGCTACGTTACTAAGGAAATGAATCCCCAA  394
+             ||       |  |||||||||   |||| |||||||||| ||||||||||| ||||||| 
+Sbjct  2534  GT-------ATACGGTCAACT--GCGCGATAGCTACGTTGCTAAGGAAATGGATCCCCAG  2584
+
+Query  395   CAACTAGTTGACATCGTTTAGGGCGTGGACTACCAGGGTATCTAAT-CCTGTTTGCTCCC  453
+             ||||| |         ||| |||||||||||    ||||||||||| ||||||   |   
+Sbjct  2585  CAACTGG--------ATTTGGGGCGTGGACT----GGGTATCTAATCCCTGTTACAT--A  2630
+
+Query  454   CACGCTTTCGTGCATGAGCGTCAGTGTTATCCCAGGAGGCTGCCTTCGCCATCGGTATTC  513
+             |||||  ||||||||||||||||||||| |  |||| ||||||||||||| ||||| |||
+Sbjct  2631  CACGC--TCGTGCATGAGCGTCAGTGTTGT--CAGG-GGCTGCCTTCGCCGTCGGTGTTC  2685
+
+Query  514   CTCCACATCTCTACGC----atatatatataatatat  546
+             |||| ||||||| |||     | ||||||||||||||
+Sbjct  2686  CTCC-CATCTCTGCGCGCGGCTGTATATATAATATAT  2721
+
+
+ Score = 178 bits (196),  Expect = 9e-48
+ Identities = 301/414 (73%), Gaps = 54/414 (13%)
+ Strand=Plus/Minus
+
+Query  37    ACGTCATCCCCACCTTCCTCCGG--TTTGTCACCGGC---AGTCTCTCTAGAGTGCCCTT  91
+             ||||||||||||||| |||||||  |||||||   |    |  | | |   || |||| |
+Sbjct  6345  ACGTCATCCCCACCT-CCTCCGGGGTTTGTCAAATGGGTAAAACCCCCCCCAGAGCCCCT  6287
+
+Query  92    TCGTA--GCAACTAGAGACAAGGGTTGCGCTCGTTGCGGGACTTAACCCAACATCTCACG  149
+             |||||  ||||||   |     || ||||| |||||||| ||||||||||||||||||||
+Sbjct  6286  TCGTAAAGCAACTTACGC----GGCTGCGCCCGTTGCGG-ACTTAACCCAACATCTCACG  6232
+
+Query  150   ACACGAGCTGACGACAGCCATGCAGCACCTGTGTCCACTTTCTCTTTCGAGCACCTAATG  209
+             |||||||| |||||| |  | |||||||||||||||||| |||     ||||||| ||||
+Sbjct  6231  ACACGAGCCGACGAC-GTTACGCAGCACCTGTGTCCACTCTCT-----GAGCACCCAATG  6178
+
+Query  210   CATCTCTGCTTCGTTAGTGGCATGTCAAGGGTA--GGTAAGGTTTTTCGCGTTGCATCGA  267
+             |||||| |||  | ||| |||  |||||||| |  ||||||| |||||||   | |||||
+Sbjct  6177  CATCTC-GCTCTGCTAGCGGC--GTCAAGGGCAGTGGTAAGG-TTTTCGCACAGTATCGA  6122
+
+Query  268   ATTAATCCACATCATCCACCGCTT--GTGCGGGTCCCCGTCAATTCCTTTGAGTTTTAAT  325
+             |||||     ||||| ||||| ||  |||||||||||        ||||| ||  | |||
+Sbjct  6121  ATTAA---CTATCATTCACCGTTTCCGTGCGGGTCCC------ACCCTTTCAG-CTCAAT  6072
+
+Query  326   CTTGCGACCGTACTCCCCAGGCGGTCAACTTCACGCGTTAGCTACGTTACTA--AGGAAA  383
+             |||||||||||| |||  |  |     | | |||||| ||| ||   || ||  | ||||
+Sbjct  6071  CTTGCGACCGTA-TCCTTAAAC-----AATCCACGCGATAGTTA--ATAATAATATGAAA  6020
+
+Query  384   TGAATCCC---CAACAACT--AGTTGACATCGTTTAGGGCGTGGACT-ACCAGG  431
+             ||||||||    ||||| |  |||  |||||||||| |||||||| | ||||||
+Sbjct  6019  TGAATCCCTCGTAACAATTAAAGTCAACATCGTTTA-GGCGTGGATTCACCAGG  5967
+
+
+ Score = 176 bits (194),  Expect = 3e-47
+ Identities = 185/232 (80%), Gaps = 35/232 (15%)
+ Strand=Plus/Plus
+
+Query  269  TTAATCCACATCATCCACCGCTTGTGCGGGTCCCCGTCAATTCCTTTGAGTTTTAATCTT  328
+            || ||||||||||||||||     ||||||||||||||||||||||||||||||      
+Sbjct  113  TTCATCCACATCATCCACCT----TGCGGGTCCCCGTCAATTCCTTTGAGTTTT------  162
+
+Query  329  GCGACCGTACTCCCCAGGCGGT-CAACTTCACGC-GTTAGCTACGTTACTAAGGAAATGA  386
+               | |||||||||||||| || ||||||||| | | |||   ||||     | || || 
+Sbjct  163  ---ATCGTACTCCCCAGGCAGTCCAACTTCACACTGATAG---CGTT-----GCAAGTG-  210
+
+Query  387  ATCCCCAACAACTAGTTGACATCGTTT---AGGGCGTGGACTACCAGGGTATCTAATC-C  442
+            ||||||| ||||   |  |||||||||    ||||||||||||||||||||||||||| |
+Sbjct  211  ATCCCCAGCAAC---TGAACATCGTTTTGGGGGGCGTGGACTACCAGGGTATCTAATCAC  267
+
+Query  443  TGTTTGCTCCCCACGCTTTCGTGCATGAGCGTCAGTGTTATCCCAGGAGGCT  494
+            || ||||| |||||||||||||||||||||||| ||||||| ||||||||||
+Sbjct  268  TG-TTGCT-CCCACGCTTTCGTGCATGAGCGTC-GTGTTAT-CCAGGAGGCT  315
+
+
+ Score = 168 bits (186),  Expect = 5e-45
+ Identities = 231/306 (75%), Gaps = 39/306 (13%)
+ Strand=Plus/Minus
+
+Query  22    GGCCATGAGGACT-TGACGTCATCCCCACCTTCCTCCGGTTTGTCACCGGCAGTCTCTCT  80
+             ||||||||||||| |||||||||||| ||||||||||||||||||||| ||||   ||||
+Sbjct  4121  GGCCATGAGGACTCTGACGTCATCCCTACCTTCCTCCGGTTTGTCACC-GCAG---CTCT  4066
+
+Query  81    AGAGTGCCCTTTCGTAGCAACTAGAGACAAGGGTTGCGCTCGTTGCGGGA--CTTAACCC  138
+             |||| |||| |||| |||| |   ||||||||        ||||||| ||  ||   |||
+Sbjct  4065  AGAGCGCCC-TTCGCAGCACC---AGACAAGG-------CCGTTGCGTGACCCTGGTCCC  4017
+
+Query  139   AACATCTCACGACACGAGCTGACGACAGCCATGCAGCACCTGTGTCCACTTTCTCTTTCG  198
+             ||||||  |  | | |||| |||||||   ||    |||| ||||||||| ||   ||||
+Sbjct  4016  AACATCCTATCA-ATGAGCCGACGACA---AT---ACACCCGTGTCCACTCTC---TTCG  3967
+
+Query  199   AGCACCTAATGCATCTCTGCTTCGTTAGT--GGCATGTCAAGGGTAGGTAAGGTTTTTCG  256
+             ||||   ||||||  ||||| | ||||||  |||  | |  |||||||||||| ||||||
+Sbjct  3966  AGCAATCAATGCACTTCTGCCT-GTTAGTAAGGCCGGGC--GGGTAGGTAAGG-TTTTCG  3911
+
+Query  257   CGTTGCATCGAATTAATCCACATCATCCACCGCTTGTGCGGGTCCCCG-TCAATTCCTTT  315
+             ||||||||||||||  |||||||||||||| ||  |   ||||||| | || |  | |||
+Sbjct  3910  CGTTGCATCGAATTGGTCCACATCATCCACTGC--GCCAGGGTCCCTGTTCGA--CTTTT  3855
+
+Query  316   GAGTTT  321
+             ||||||
+Sbjct  3854  GAGTTT  3849
+
+
+ Score = 159 bits (176),  Expect = 2e-42
+ Identities = 228/308 (74%), Gaps = 35/308 (11%)
+ Strand=Plus/Plus
+
+Query  252   TTTCGCGTTGCATCGAATTAATCCACATCATCC-ACCG-CTTGTGCGGGTCCCCGTCAAT  309
+             ||||||||| | ||||   |||||||||||||| |||  |||||||||||| | ||||||
+Sbjct  1526  TTTCGCGTTAC-TCGAGCCAATCCACATCATCCCACCAACTTGTGCGGGTCAC-GTCAAT  1583
+
+Query  310   TCCTTTGAGTTTTAATCTTGCGACCGTACTCCCCAGGCGGTCAACTTCACGC-GTTAGCT  368
+             ||||||||||||||||| |||     | |||| |  |   ||||| |||||| | |||||
+Sbjct  1584  TCCTTTGAGTTTTAATCATGCAT---TGCTCCACGAG---TCAACATCACGCAGATAGCT  1637
+
+Query  369   ACGTTACTA-AGGAAATGAATCCCCAACAACTAGTTGACATCGTTTAGGGCGTGGACTAC  427
+              |||||||| || | ||      | | || || ||||||||||||| ||   |||||| |
+Sbjct  1638  GCGTTACTAGAGTAGAT------CTAGCAGCTGGTTGACATCGTTTGGGCATTGGACTGC  1691
+
+Query  428   CAGGGTATCTAATCCTGTTTGCTCCCCACGCTTTCGTGCATGAGCGTCAGT-GTTATCCC  486
+             ||||||||||||||        |  |  ||||||||||||||||| |||||  |||||||
+Sbjct  1692  CAGGGTATCTAATC-------ATAACATCGCTTTCGTGCATGAGCATCAGTATTTATCCC  1744
+
+Query  487   AGGAGGCTG--CCTTCGC----CATCGGTATTCCTCCACATCTCTACGCatatatatata  540
+             ||  |||||  ||||  |    |||| ||||| |||||  |||   ||||| ||||| | 
+Sbjct  1745  AG--GGCTGCCCCTTTACTGTGCATCCGTATTTCTCCATCTCTGCGCGCAT-TATATGTT  1801
+
+Query  541   atatatat  548
+             ||||||||
+Sbjct  1802  ATATATAT  1809
+
+
+ Score = 156 bits (172),  Expect = 3e-41
+ Identities = 224/297 (75%), Gaps = 44/297 (15%)
+ Strand=Plus/Minus
+
+Query  35    TGACGTCATCCCCACCTTCCTCCGGTT-TGTCACCGGCAGTCTCTCTAGAGTGCCCTTTC  93
+             ||||||||||| ||||||||||||| | |||||||| ||||||||  ||||||||||| |
+Sbjct  1314  TGACGTCATCCTCACCTTCCTCCGGCTCTGTCACCG-CAGTCTCT--AGAGTGCCCTT-C  1259
+
+Query  94    GTAG-CAACT--AGAGACAAGGGTTGCGCTCGTTGCGGGACTT---AACCCAACATCTCA  147
+             | || ||| |  |||||||||| | ||||  ||||||||||||   |||  |||||||||
+Sbjct  1258  GCAGGCAAATTCAGAGACAAGGCT-GCGCCTGTTGCGGGACTTCTAAACTTAACATCTCA  1200
+
+Query  148   CGACACGAGCTGACGACAGCCATGCAGCACCTGTGTCCACTTTCTCTTTCGAGCACCTAA  207
+             |   ||||||||||||      |||  ||||   ||||||||     ||||||||    |
+Sbjct  1199  CATTACGAGCTGACGATGTT--TGC--CACCCA-GTCCACTTC----TTCGAGCA----A  1153
+
+Query  208   TGCATCTCTGCTTCGTTAGTGGCATGTCAAGGGTAGGTAAGGTTTTTCGCGTT-GCATCG  266
+             ||||||||||||  | |||||||||||||     ||||||||  ||||||||| | ||||
+Sbjct  1152  TGCATCTCTGCTCTGCTAGTGGCATGTCA-----AGGTAAGG--TTTCGCGTTGGTATCG  1100
+
+Query  267   AATTAATCCACATCATCCACCGCTTGTGCGGGTCCCCGTCAATTCCTTTGAGTTTTA  323
+             |||||||     ||||| || | ||||   ||||| ||||| ||  |  ||||||||
+Sbjct  1099  AATTAAT-----TCATCTACTG-TTGT---GGTCCTCGTCACTT--TGGGAGTTTTA  1054
+
+
+ Score = 152 bits (168),  Expect = 4e-40
+ Identities = 203/266 (76%), Gaps = 27/266 (10%)
+ Strand=Plus/Plus
+
+Query  277   CATCATCCACCGCTTGTGCGGGTCCCCGTCAATTCCTT---TGAGTTTT----AATCTTG  329
+             |||||||||||   |||||||||||||||||||   ||   ||||||||    |||||||
+Sbjct  3391  CATCATCCACCA--TGTGCGGGTCCCCGTCAATAATTTCGCTGAGTTTTTTGAAATCTTG  3448
+
+Query  330   CGACCGTACTCCCCAGGCGGTCAACTTCACGCGTTAGCTACGTT-ACTAAGGAAATGAAT  388
+             ||   ||||||||||||||||||||| ||    ||| || | || |||||| |||||   
+Sbjct  3449  CGT--GTACTCCCCAGGCGGTCAACTGCA----TTAACTGCATTTACTAAG-AAATGGT-  3500
+
+Query  389   CCCCAACAACTAGTTGACATCGTTTAGGGCGTGGACTACCAGGGTATCTAATCCTGTTT-  447
+              | || ||||| |||||||||||||  |||||||||| |   |||||||  |||||||| 
+Sbjct  3501  -CACAGCAACTGGTTGACATCGTTT--GGCGTGGACTGCAGAGGTATCTGGTCCTGTTTT  3557
+
+Query  448   GCTCCCCACGCTTTC-GTGC-ATGAGCGTCAGTGTTATCCCAGGAGGCTGCCTTCGCCAT  505
+             |||||| ||||||||  |||   ||||||| |||||||||| ||  | | |   |  |||
+Sbjct  3558  GCTCCC-ACGCTTTCATTGCGCGGAGCGTCGGTGTTATCCCGGGGAGGTACTAGCCGCAT  3616
+
+Query  506   C-GGTA-TTCCTCCACATCTCTACGC  529
+             | |||| ||||||| ||||||| |||
+Sbjct  3617  CGGGTATTTCCTCCGCATCTCTGCGC  3642
+
+
+ Score = 89.7 bits (98),  Expect = 4e-21
+ Identities = 261/379 (69%), Gaps = 56/379 (15%)
+ Strand=Plus/Minus
+
+Query  22    GGCCATGAGGACTTGACGTCATCCCC--ACCTTCCTCCGGTTT--GTCACCGGCAGTCTC  77
+             ||||  ||||||| |||| ||||| |  ||| | | |||| ||  ||||||||||| |  
+Sbjct  3168  GGCCGCGAGGACT-GACGCCATCCTCTCACCCTTC-CCGGCTTCCGTCACCGGCAGCCC-  3112
+
+Query  78    TCTAGAGTGCCCTTTCGTAGCAACTAGAGACAAG--GGTTGCGCTCGTTGCGGGACTTAA  135
+                || |||||||  || |||||| |||||||||  || |||||  | ||||      | 
+Sbjct  3111  ---AG-GTGCCCT--CGCAGCAACCAGAGACAAGCGGGCTGCGCCTGCTGCG------AC  3064
+
+Query  136   CCCAAC--ATCTCACGACACGAGCTGACGACAGCCATGCAGCACCTGTGTCCACTTTCTC  193
+             ||||||  ||||||||||||  | |  |  |  |  |   ||||| ||||||| ||||||
+Sbjct  3063  CCCAACCCATCTCACGACACTTGTTT-CATCTACGTTCGCGCACCCGTGTCCAATTTCTC  3005
+
+Query  194   TTTCGAGCACCTA-ATGCATCTC-TGCTTCGTTAGTGGCATGTCAAGGGTAGGTAAGGTT  251
+             |  |||||||||  | ||| | | ||||  |  |||   | |||||||  |||||||| |
+Sbjct  3004  T--CGAGCACCTGTACGCACCGCCTGCTA-GCAAGT---ACGTCAAGGC-AGGTAAGGCT  2952
+
+Query  252   TTTCGCGTTGCATCGAATTAATCCACATCATCCACCGCTTGTGCGGGTCCCCGTCAATTC  311
+                 ||| || ||||||||| ||||||||||||  |       | ||||| |       |
+Sbjct  2951  ----GCGCTGTATCGAATTA-TCCACATCATCCGTC------ACAGGTCCGC-------C  2910
+
+Query  312   CTTTGAGTTTTAATCTTGCGACC-GTACTCCCCAGGCGGTCAACTTCACGCGTTAGCTAC  370
+              | |||||||||||||||||||| | || ||  ||||||   |||||||| | ||  |||
+Sbjct  2909  TTCTGAGTTTTAATCTTGCGACCGGCACCCCTGAGGCGG--CACTTCACGTGATA-TTAC  2853
+
+Query  371   GTTACTAAGGAAATGAATC  389
+             |||  | | | ||||||||
+Sbjct  2852  GTTGGTTATG-AATGAATC  2835
+
+
+ Score = 80.6 bits (88),  Expect = 2e-18
+ Identities = 58/64 (91%), Gaps = 5/64 (8%)
+ Strand=Plus/Minus
+
+Query  29    AGGACT-TGACGTCATCCCCACCTTCCTCC-GGTTTGTCACCGGCAGTCTCTCTAGAGTG  86
+             |||||| ||||||||||||||||||||||| ||||||||||||||||||||| ||   ||
+Sbjct  4474  AGGACTCTGACGTCATCCCCACCTTCCTCCGGGTTTGTCACCGGCAGTCTCTATA---TG  4418
+
+Query  87    CCCT  90
+             ||||
+Sbjct  4417  CCCT  4414
+
+
+ Score = 68.0 bits (74),  Expect = 1e-14
+ Identities = 65/81 (80%), Gaps = 7/81 (9%)
+ Strand=Plus/Minus
+
+Query  22   GGCCATGAGGACTTGACGTCATCCCCACCTTCCTCCGGTTTG--TCACCGGCAGTCTCTC  79
+            ||||  |||||| ||||||||||||||    |||||||  ||  ||||||||||||||| 
+Sbjct  791  GGCCGCGAGGACCTGACGTCATCCCCA----CCTCCGGCCTGCCTCACCGGCAGTCTCTG  736
+
+Query  80   TAGAGTGCCCTTTCGTAGCAA  100
+            | ||| |||| |||| |||||
+Sbjct  735  T-GAGCGCCCCTTCGCAGCAA  716
+
+
+ Score = 62.6 bits (68),  Expect = 5e-13
+ Identities = 111/156 (71%), Gaps = 21/156 (13%)
+ Strand=Plus/Plus
+
+Query  34    TTGACGTCATCCCCACCTTCCTCCGGTTTGTCACCGGCAGTCTCTCTAGAGTGCCCTTTC  93
+             |||||||||||       ||||||||  |||||||||||   |||||| | |  |  |||
+Sbjct  4143  TTGACGTCATCTA-----TCCTCCGGACTGTCACCGGCA--ATCTCTAAATTAAC--TTC  4193
+
+Query  94    GTAGCAACTAGAGACAAGGGTTGCGCTCGTTG-CGGGACTTAACCCAACATCTCACGACA  152
+             ||| || |   |||||  |||| ||||||||| ||| ||| |||  |||||||  |||||
+Sbjct  4194  GTAACAGC--AAGACAGAGGTTACGCTCGTTGCCGGAACTAAACTTAACATCT--CGACA  4249
+
+Query  153   CGAGCTGACGACAGCCATGCAGCACCTGTGTCCACT  188
+             |      |||  | ||||||| ||||  ||||||||
+Sbjct  4250  C-----AACGGTAACCATGCAACACC--TGTCCACT  4278
+
+
+ Score = 44.6 bits (48),  Expect = 1e-07
+ Identities = 63/84 (75%), Gaps = 15/84 (18%)
+ Strand=Plus/Plus
+
+Query  252   TTTCGCGTTGCATCGAATTAATCCACATCATCCACCGCTTGTGCGGGTCCCCGTCAATTC  311
+             ||||||||| | || |||  |||||||||   |||||||||    |||| |    |||||
+Sbjct  968   TTTCGCGTTAC-TCAAAT--ATCCACATC---CACCGCTTG----GGTCAC----AATTC  1013
+
+Query  312   CTTTGAGTTTTAATCTTGCGACCG  335
+               | | ||||||||||||||||||
+Sbjct  1014  GCTGG-GTTTTAATCTTGCGACCG  1036
+
+
+ Score = 37.4 bits (40),  Expect = 2e-05
+ Identities = 62/82 (76%), Gaps = 6/82 (7%)
+ Strand=Plus/Minus
+
+Query  252  TTTCGCGTTGCATCGAATTAATCCACATCATCCACCGCTTGTGCGGGTCCCCGTCAATTC  311
+            |||||||  ||| ||||| ||||   |||||| |  ||||  |||||||| || |    |
+Sbjct  566  TTTCGCGCCGCA-CGAAT-AATCATTATCATCAAT-GCTTC-GCGGGTCCTCGCCTGG-C  512
+
+Query  312  CTTTGAGTTTTAATCTTGCGAC  333
+            ||| ||||||||||| ||||||
+Sbjct  511  CTTGGAGTTTTAATC-TGCGAC  491
+
+
+ Score = 33.7 bits (36),  Expect = 2e-04
+ Identities = 25/29 (86%), Gaps = 4/29 (14%)
+ Strand=Plus/Minus
+
+Query  150   ACACGAGCTGACGACAGCCATGCAGCACC  178
+             ||||||||||||||    |||||||||||
+Sbjct  4365  ACACGAGCTGACGA----CATGCAGCACC  4341
+
+
+ Score = 30.1 bits (32),  Expect = 0.003
+ Identities = 19/21 (90%), Gaps = 0/21 (0%)
+ Strand=Plus/Plus
+
+Query  52    TCCTCCGGTTTGTCACCGGCA  72
+             || ||| ||||||||||||||
+Sbjct  1372  TCATCCAGTTTGTCACCGGCA  1392
+
+
+ Score = 28.3 bits (30),  Expect = 0.010
+ Identities = 30/40 (75%), Gaps = 5/40 (13%)
+ Strand=Plus/Plus
+
+Query  138  CAACATCTCACGACACGAGCTGACGACAGCCATGCAGCAC  177
+            ||||||||||||  || |      |||||||||||| |||
+Sbjct  895  CAACATCTCACGGTACAAT-----GACAGCCATGCAACAC  929
+
+
+ Score = 28.3 bits (30),  Expect = 0.010
+ Identities = 28/36 (78%), Gaps = 3/36 (8%)
+ Strand=Plus/Minus
+
+Query  416   GGCGTGGACTACCAGGGTATCTAATCCTGTTTGCTC  451
+             |||||||||||  |||    ||||| ||||||| ||
+Sbjct  1902  GGCGTGGACTAGGAGG---CCTAATTCTGTTTGTTC  1870
+
+
+ Score = 26.5 bits (28),  Expect = 0.035
+ Identities = 33/44 (75%), Gaps = 1/44 (2%)
+ Strand=Plus/Minus
+
+Query  498   TTCGCCATCGGTATTCCTCCACATCTCTACGCata-tatatata  540
+             |||| |||||||||||   || ||||   |  ||| ||||||||
+Sbjct  2751  TTCGTCATCGGTATTCACGCAAATCTGGCCATATATTATATATA  2708
+
+
+ Score = 26.5 bits (28),  Expect = 0.035
+ Identities = 18/19 (95%), Gaps = 1/19 (5%)
+ Strand=Plus/Plus
+
+Query  190   TCTCTTTCGAGCACCTAAT  208
+             ||||||||||||| |||||
+Sbjct  3323  TCTCTTTCGAGCA-CTAAT  3340
+
+
+ Score = 21.1 bits (22),  Expect = 1.5
+ Identities = 13/14 (93%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  495   GCCTTCGCCATCGG  508
+             || |||||||||||
+Sbjct  4985  GCGTTCGCCATCGG  4972
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 3417596
+
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

@@ -15,7 +15,7 @@ read_file=/root/Github/retinalu/0713/0902/SingleFile/$file
 name=$(basename $file .fastq)
 
 name_out=./G/out/align_$name.out
-name_cd_sub=./G/cb_sub/cb_sub_$name.out
+name_cb_sub=./G/cb_sub/cb_sub_$name.out
 
 blastn -task blastn -query $ref_file -subject $read_file -outfmt "6 sseqid sstart send slen qstart qend qlen evalue score length nident mismatch gaps sseq qseq qseqid"  > $name_out
 blastn -task blastn -query $ref_file -subject $read_file > $name_cb_sub

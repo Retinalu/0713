@@ -1,0 +1,107 @@
+BLASTN 2.2.31+
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= 
+Length=99142
+
+
+ Score = 26.5 bits (28),  Expect = 0.54
+ Identities = 17/19 (89%), Gaps = 0/19 (0%)
+ Strand=Plus/Plus
+
+Query  250    TTTTTCGCGTTGCATCGAA  268
+              |||||||||||| || |||
+Sbjct  42926  TTTTTCGCGTTGAATTGAA  42944
+
+
+ Score = 24.7 bits (26),  Expect = 1.9
+ Identities = 13/13 (100%), Gaps = 0/13 (0%)
+ Strand=Plus/Plus
+
+Query  249    GTTTTTCGCGTTG  261
+              |||||||||||||
+Sbjct  80966  GTTTTTCGCGTTG  80978
+
+
+ Score = 22.9 bits (24),  Expect = 6.6
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  251   TTTTCGCGTTGC  262
+             ||||||||||||
+Sbjct  1290  TTTTCGCGTTGC  1301
+
+
+ Score = 22.9 bits (24),  Expect = 6.6
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  250    TTTTTCGCGTTG  261
+              ||||||||||||
+Sbjct  32705  TTTTTCGCGTTG  32716
+
+
+ Score = 22.9 bits (24),  Expect = 6.6
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  249    GTTTTTCGCGTT  260
+              ||||||||||||
+Sbjct  52760  GTTTTTCGCGTT  52771
+
+
+ Score = 22.9 bits (24),  Expect = 6.6
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  250    TTTTTCGCGTTG  261
+              ||||||||||||
+Sbjct  56246  TTTTTCGCGTTG  56257
+
+
+ Score = 22.9 bits (24),  Expect = 6.6
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  249    GTTTTTCGCGTT  260
+              ||||||||||||
+Sbjct  64215  GTTTTTCGCGTT  64226
+
+
+ Score = 22.9 bits (24),  Expect = 6.6
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  355    TTCACGCGTTAG  366
+              ||||||||||||
+Sbjct  67842  TTCACGCGTTAG  67853
+
+
+ Score = 22.9 bits (24),  Expect = 6.6
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  249    GTTTTTCGCGTT  260
+              ||||||||||||
+Sbjct  70384  GTTTTTCGCGTT  70395
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 52535190
+
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

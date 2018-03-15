@@ -1,0 +1,53 @@
+BLASTN 2.2.31+
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= 
+Length=16300
+
+
+ Score = 22.9 bits (24),  Expect = 1.1
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  156    GCTGACGACAGC  167
+              ||||||||||||
+Sbjct  13933  GCTGACGACAGC  13944
+
+
+ Score = 21.1 bits (22),  Expect = 3.8
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  141  CATCTCACGAC  151
+            |||||||||||
+Sbjct  216  CATCTCACGAC  206
+
+
+ Score = 21.1 bits (22),  Expect = 3.8
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  157   CTGACGACAGC  167
+             |||||||||||
+Sbjct  3463  CTGACGACAGC  3473
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 8662556
+
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

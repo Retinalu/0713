@@ -1,0 +1,80 @@
+BLASTN 2.2.31+
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= 
+Length=3189
+
+
+ Score = 46.4 bits (50),  Expect = 2e-08
+ Identities = 38/46 (83%), Gaps = 4/46 (9%)
+ Strand=Plus/Minus
+
+Query  479  GTTATCCCAGGAGGCTGCCTTCGCCATCGGTATTCCTCCACATCTC  524
+            ||||||||||||||||    ||||||||||  | | ||||||||||
+Sbjct  368  GTTATCCCAGGAGGCT----TCGCCATCGGCCTCCTTCCACATCTC  327
+
+
+ Score = 46.4 bits (50),  Expect = 2e-08
+ Identities = 35/39 (90%), Gaps = 2/39 (5%)
+ Strand=Plus/Minus
+
+Query  482   ATCCCAGGAGGCTGCCTTCGCCATCGGTAT-TCCTCCAC  519
+             |||||||||||| || |||||||||||||| ||| ||||
+Sbjct  2810  ATCCCAGGAGGCCGC-TTCGCCATCGGTATCTCCGCCAC  2773
+
+
+ Score = 42.8 bits (46),  Expect = 2e-07
+ Identities = 31/35 (89%), Gaps = 1/35 (3%)
+ Strand=Plus/Plus
+
+Query  490  AGGCTGCCTTCGCCATCGGTATTCCTCCACATCTC  524
+            ||||||||| |||||||||   |||||||||||||
+Sbjct  424  AGGCTGCCT-CGCCATCGGCTGTCCTCCACATCTC  457
+
+
+ Score = 42.8 bits (46),  Expect = 2e-07
+ Identities = 44/55 (80%), Gaps = 6/55 (11%)
+ Strand=Plus/Minus
+
+Query  479   GTTATCCCAGG-AGGCTGCCTTCGCCATCGGTATTCCTCCACATCTC-TACGCat  531
+             ||||||||||| ||   |||||||||||||||  |||    |||||| |||||||
+Sbjct  1485  GTTATCCCAGGGAGTACGCCTTCGCCATCGGTGCTCC----CATCTCTTACGCAT  1435
+
+
+ Score = 35.6 bits (38),  Expect = 3e-05
+ Identities = 19/19 (100%), Gaps = 0/19 (0%)
+ Strand=Plus/Minus
+
+Query  513   CCTCCACATCTCTACGCat  531
+             |||||||||||||||||||
+Sbjct  1299  CCTCCACATCTCTACGCAT  1281
+
+
+ Score = 33.7 bits (36),  Expect = 1e-04
+ Identities = 41/52 (79%), Gaps = 3/52 (6%)
+ Strand=Plus/Plus
+
+Query  474   TCAGTGTTATCCCAGGAGGCTGCCTTCGCCATCGGTATTCCTCCACATCTCT  525
+             ||||| ||||||||||| ||| ||||| || ||   |||| ||| || ||||
+Sbjct  1537  TCAGTATTATCCCAGGA-GCTACCTTCTCC-TC-AAATTCTTCCTCACCTCT  1585
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 1694916
+
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

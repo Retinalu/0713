@@ -3449,3 +3449,866 @@
 2018-03-15 14:38:28,522 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=993ch=504st.m5, Threads: 4
 2018-03-15 14:38:28,526 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
 2018-03-15 14:38:28,528 INFO  [Consensus] Consensus calling: genome Alignments: 26
+2018-03-15 14:44:20,482 INFO  [default] Multi-threaded. Input: ./G/m5/align_G.m5, Threads: 4
+2018-03-15 14:44:20,690 INFO  [default] Multi-threaded. Input: ./G/m5/align_graphmap_consensus.m5, Threads: 4
+2018-03-15 14:44:20,901 INFO  [default] Multi-threaded. Input: ./G/m5/align_graphmap_m5.m5, Threads: 4
+2018-03-15 14:44:21,108 INFO  [default] Multi-threaded. Input: ./G/m5/align_graphmap_sam.m5, Threads: 4
+2018-03-15 14:44:21,316 INFO  [default] Multi-threaded. Input: ./G/m5/align_logs.m5, Threads: 4
+2018-03-15 14:44:21,524 INFO  [default] Multi-threaded. Input: ./G/m5/align_long18s.fasta.m5, Threads: 4
+2018-03-15 14:44:21,526 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:21,527 INFO  [Consensus] Consensus calling: genome Alignments: 1
+2018-03-15 14:44:21,832 INFO  [default] Multi-threaded. Input: ./G/m5/align_long18s.fasta.gmidx.m5, Threads: 4
+2018-03-15 14:44:21,834 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:21,835 INFO  [Consensus] Consensus calling: genome Alignments: 2
+2018-03-15 14:44:22,088 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1001ch=136s.m5, Threads: 4
+2018-03-15 14:44:22,090 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:22,092 INFO  [Consensus] Consensus calling: genome Alignments: 19
+2018-03-15 14:44:22,351 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1007ch=294s.m5, Threads: 4
+2018-03-15 14:44:22,354 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:22,356 INFO  [Consensus] Consensus calling: genome Alignments: 20
+2018-03-15 14:44:22,628 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1012ch=314s.m5, Threads: 4
+2018-03-15 14:44:22,631 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:22,633 INFO  [Consensus] Consensus calling: genome Alignments: 52
+2018-03-15 14:44:22,901 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1016ch=349s.m5, Threads: 4
+2018-03-15 14:44:22,903 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:22,905 INFO  [Consensus] Consensus calling: genome Alignments: 34
+2018-03-15 14:44:23,159 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1028ch=45st.m5, Threads: 4
+2018-03-15 14:44:23,161 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:23,163 INFO  [Consensus] Consensus calling: genome Alignments: 20
+2018-03-15 14:44:23,446 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1041ch=310s.m5, Threads: 4
+2018-03-15 14:44:23,448 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:23,450 INFO  [Consensus] Consensus calling: genome Alignments: 60
+2018-03-15 14:44:23,694 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1042ch=364s.m5, Threads: 4
+2018-03-15 14:44:23,696 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:23,698 INFO  [Consensus] Consensus calling: genome Alignments: 8
+2018-03-15 14:44:23,945 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1044ch=432s.m5, Threads: 4
+2018-03-15 14:44:23,947 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:23,949 INFO  [Consensus] Consensus calling: genome Alignments: 10
+2018-03-15 14:44:24,202 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1045ch=137s.m5, Threads: 4
+2018-03-15 14:44:24,204 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:24,206 INFO  [Consensus] Consensus calling: genome Alignments: 27
+2018-03-15 14:44:24,439 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1054ch=6sta.m5, Threads: 4
+2018-03-15 14:44:24,670 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1057ch=309s.m5, Threads: 4
+2018-03-15 14:44:24,928 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1060ch=244s.m5, Threads: 4
+2018-03-15 14:44:24,930 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:24,932 INFO  [Consensus] Consensus calling: genome Alignments: 24
+2018-03-15 14:44:25,187 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1060ch=411s.m5, Threads: 4
+2018-03-15 14:44:25,189 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:25,191 INFO  [Consensus] Consensus calling: genome Alignments: 20
+2018-03-15 14:44:25,421 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1078ch=243s.m5, Threads: 4
+2018-03-15 14:44:25,662 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1082ch=136s.m5, Threads: 4
+2018-03-15 14:44:25,665 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:25,667 INFO  [Consensus] Consensus calling: genome Alignments: 12
+2018-03-15 14:44:25,919 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1082ch=173s.m5, Threads: 4
+2018-03-15 14:44:25,921 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:25,923 INFO  [Consensus] Consensus calling: genome Alignments: 15
+2018-03-15 14:44:26,182 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1088ch=127s.m5, Threads: 4
+2018-03-15 14:44:26,184 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:26,187 INFO  [Consensus] Consensus calling: genome Alignments: 13
+2018-03-15 14:44:26,427 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1093ch=309s.m5, Threads: 4
+2018-03-15 14:44:26,674 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1095ch=349s.m5, Threads: 4
+2018-03-15 14:44:26,676 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:26,679 INFO  [Consensus] Consensus calling: genome Alignments: 15
+2018-03-15 14:44:26,920 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1098ch=309s.m5, Threads: 4
+2018-03-15 14:44:27,190 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1108ch=165s.m5, Threads: 4
+2018-03-15 14:44:27,193 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:27,195 INFO  [Consensus] Consensus calling: genome Alignments: 29
+2018-03-15 14:44:27,443 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1112ch=357s.m5, Threads: 4
+2018-03-15 14:44:27,445 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:27,447 INFO  [Consensus] Consensus calling: genome Alignments: 25
+2018-03-15 14:44:27,706 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1115ch=499s.m5, Threads: 4
+2018-03-15 14:44:27,709 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:27,711 INFO  [Consensus] Consensus calling: genome Alignments: 21
+2018-03-15 14:44:27,963 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1116ch=41st.m5, Threads: 4
+2018-03-15 14:44:27,965 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:27,967 INFO  [Consensus] Consensus calling: genome Alignments: 14
+2018-03-15 14:44:28,217 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1120ch=20st.m5, Threads: 4
+2018-03-15 14:44:28,220 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:28,222 INFO  [Consensus] Consensus calling: genome Alignments: 13
+2018-03-15 14:44:28,461 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1121ch=127s.m5, Threads: 4
+2018-03-15 14:44:28,464 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:28,466 INFO  [Consensus] Consensus calling: genome Alignments: 7
+2018-03-15 14:44:28,693 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1122ch=309s.m5, Threads: 4
+2018-03-15 14:44:28,956 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1123ch=445s.m5, Threads: 4
+2018-03-15 14:44:28,958 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:28,960 INFO  [Consensus] Consensus calling: genome Alignments: 30
+2018-03-15 14:44:29,218 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1125ch=508s.m5, Threads: 4
+2018-03-15 14:44:29,220 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:29,222 INFO  [Consensus] Consensus calling: genome Alignments: 19
+2018-03-15 14:44:29,474 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1129ch=135s.m5, Threads: 4
+2018-03-15 14:44:29,477 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:29,479 INFO  [Consensus] Consensus calling: genome Alignments: 13
+2018-03-15 14:44:29,738 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1129ch=424s.m5, Threads: 4
+2018-03-15 14:44:29,741 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:29,743 INFO  [Consensus] Consensus calling: genome Alignments: 30
+2018-03-15 14:44:29,996 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1131ch=228s.m5, Threads: 4
+2018-03-15 14:44:29,999 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:30,001 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:44:30,251 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1135ch=97st.m5, Threads: 4
+2018-03-15 14:44:30,254 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:30,256 INFO  [Consensus] Consensus calling: genome Alignments: 21
+2018-03-15 14:44:30,508 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1144ch=499s.m5, Threads: 4
+2018-03-15 14:44:30,510 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:30,512 INFO  [Consensus] Consensus calling: genome Alignments: 13
+2018-03-15 14:44:30,764 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1155ch=357s.m5, Threads: 4
+2018-03-15 14:44:30,766 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:30,768 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:44:31,021 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1156ch=41st.m5, Threads: 4
+2018-03-15 14:44:31,023 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:31,025 INFO  [Consensus] Consensus calling: genome Alignments: 32
+2018-03-15 14:44:31,274 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1163ch=135s.m5, Threads: 4
+2018-03-15 14:44:31,276 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:31,278 INFO  [Consensus] Consensus calling: genome Alignments: 15
+2018-03-15 14:44:31,517 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1164ch=16st.m5, Threads: 4
+2018-03-15 14:44:31,519 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:31,521 INFO  [Consensus] Consensus calling: genome Alignments: 3
+2018-03-15 14:44:31,764 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1173ch=441s.m5, Threads: 4
+2018-03-15 14:44:31,767 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:31,769 INFO  [Consensus] Consensus calling: genome Alignments: 3
+2018-03-15 14:44:32,027 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1175ch=103s.m5, Threads: 4
+2018-03-15 14:44:32,029 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:32,031 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:44:32,277 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1181ch=447s.m5, Threads: 4
+2018-03-15 14:44:32,279 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:32,281 INFO  [Consensus] Consensus calling: genome Alignments: 10
+2018-03-15 14:44:32,515 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1184ch=192s.m5, Threads: 4
+2018-03-15 14:44:32,518 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:32,520 INFO  [Consensus] Consensus calling: genome Alignments: 2
+2018-03-15 14:44:32,775 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1184ch=441s.m5, Threads: 4
+2018-03-15 14:44:32,777 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:32,779 INFO  [Consensus] Consensus calling: genome Alignments: 20
+2018-03-15 14:44:33,023 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1186ch=228s.m5, Threads: 4
+2018-03-15 14:44:33,272 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1186ch=374s.m5, Threads: 4
+2018-03-15 14:44:33,275 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:33,277 INFO  [Consensus] Consensus calling: genome Alignments: 24
+2018-03-15 14:44:33,516 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1188ch=475s.m5, Threads: 4
+2018-03-15 14:44:33,519 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:33,521 INFO  [Consensus] Consensus calling: genome Alignments: 1
+2018-03-15 14:44:33,763 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1192ch=242s.m5, Threads: 4
+2018-03-15 14:44:33,766 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:33,767 INFO  [Consensus] Consensus calling: genome Alignments: 10
+2018-03-15 14:44:34,020 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1192ch=432s.m5, Threads: 4
+2018-03-15 14:44:34,022 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:34,024 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:44:34,260 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1199ch=192s.m5, Threads: 4
+2018-03-15 14:44:34,487 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1200ch=443s.m5, Threads: 4
+2018-03-15 14:44:34,726 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1207ch=192s.m5, Threads: 4
+2018-03-15 14:44:34,728 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:34,730 INFO  [Consensus] Consensus calling: genome Alignments: 1
+2018-03-15 14:44:34,984 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1214ch=364s.m5, Threads: 4
+2018-03-15 14:44:34,986 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:34,989 INFO  [Consensus] Consensus calling: genome Alignments: 12
+2018-03-15 14:44:35,227 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1216ch=191s.m5, Threads: 4
+2018-03-15 14:44:35,230 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:35,232 INFO  [Consensus] Consensus calling: genome Alignments: 10
+2018-03-15 14:44:35,469 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1220ch=443s.m5, Threads: 4
+2018-03-15 14:44:35,471 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:35,473 INFO  [Consensus] Consensus calling: genome Alignments: 1
+2018-03-15 14:44:35,707 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1222ch=192s.m5, Threads: 4
+2018-03-15 14:44:35,710 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:35,712 INFO  [Consensus] Consensus calling: genome Alignments: 1
+2018-03-15 14:44:35,982 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1223ch=103s.m5, Threads: 4
+2018-03-15 14:44:35,985 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:35,987 INFO  [Consensus] Consensus calling: genome Alignments: 37
+2018-03-15 14:44:36,224 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1226ch=192s.m5, Threads: 4
+2018-03-15 14:44:36,465 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1234ch=192s.m5, Threads: 4
+2018-03-15 14:44:36,467 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:36,469 INFO  [Consensus] Consensus calling: genome Alignments: 2
+2018-03-15 14:44:36,714 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1236ch=510s.m5, Threads: 4
+2018-03-15 14:44:36,717 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:36,719 INFO  [Consensus] Consensus calling: genome Alignments: 13
+2018-03-15 14:44:36,955 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1239ch=349s.m5, Threads: 4
+2018-03-15 14:44:37,192 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1247ch=192s.m5, Threads: 4
+2018-03-15 14:44:37,195 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:37,197 INFO  [Consensus] Consensus calling: genome Alignments: 2
+2018-03-15 14:44:37,448 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1250ch=368s.m5, Threads: 4
+2018-03-15 14:44:37,450 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:37,452 INFO  [Consensus] Consensus calling: genome Alignments: 24
+2018-03-15 14:44:37,701 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1252ch=242s.m5, Threads: 4
+2018-03-15 14:44:37,703 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:37,705 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:44:37,954 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1254ch=243s.m5, Threads: 4
+2018-03-15 14:44:37,956 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:37,958 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:44:38,206 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1265ch=325s.m5, Threads: 4
+2018-03-15 14:44:38,209 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:38,211 INFO  [Consensus] Consensus calling: genome Alignments: 9
+2018-03-15 14:44:38,449 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1271ch=309s.m5, Threads: 4
+2018-03-15 14:44:38,700 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1280ch=165s.m5, Threads: 4
+2018-03-15 14:44:38,703 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:38,705 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:44:38,947 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1282ch=503s.m5, Threads: 4
+2018-03-15 14:44:38,949 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:38,951 INFO  [Consensus] Consensus calling: genome Alignments: 18
+2018-03-15 14:44:39,202 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1287ch=137s.m5, Threads: 4
+2018-03-15 14:44:39,204 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:39,207 INFO  [Consensus] Consensus calling: genome Alignments: 21
+2018-03-15 14:44:39,461 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1290ch=370s.m5, Threads: 4
+2018-03-15 14:44:39,463 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:39,465 INFO  [Consensus] Consensus calling: genome Alignments: 21
+2018-03-15 14:44:39,735 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1296ch=165s.m5, Threads: 4
+2018-03-15 14:44:39,738 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:39,740 INFO  [Consensus] Consensus calling: genome Alignments: 34
+2018-03-15 14:44:39,997 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1296ch=364s.m5, Threads: 4
+2018-03-15 14:44:40,003 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:40,006 INFO  [Consensus] Consensus calling: genome Alignments: 21
+2018-03-15 14:44:40,283 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1299ch=102s.m5, Threads: 4
+2018-03-15 14:44:40,286 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:40,288 INFO  [Consensus] Consensus calling: genome Alignments: 43
+2018-03-15 14:44:40,528 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1300ch=253s.m5, Threads: 4
+2018-03-15 14:44:40,531 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:40,533 INFO  [Consensus] Consensus calling: genome Alignments: 2
+2018-03-15 14:44:40,766 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1303ch=309s.m5, Threads: 4
+2018-03-15 14:44:41,022 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1311ch=39st.m5, Threads: 4
+2018-03-15 14:44:41,024 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:41,026 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:44:41,278 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1318ch=243s.m5, Threads: 4
+2018-03-15 14:44:41,281 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:41,283 INFO  [Consensus] Consensus calling: genome Alignments: 19
+2018-03-15 14:44:41,540 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1333ch=310s.m5, Threads: 4
+2018-03-15 14:44:41,543 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:41,545 INFO  [Consensus] Consensus calling: genome Alignments: 42
+2018-03-15 14:44:41,796 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1333ch=403s.m5, Threads: 4
+2018-03-15 14:44:41,798 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:41,800 INFO  [Consensus] Consensus calling: genome Alignments: 13
+2018-03-15 14:44:42,046 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1337ch=256s.m5, Threads: 4
+2018-03-15 14:44:42,049 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:42,051 INFO  [Consensus] Consensus calling: genome Alignments: 2
+2018-03-15 14:44:42,295 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1347ch=187s.m5, Threads: 4
+2018-03-15 14:44:42,297 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:42,299 INFO  [Consensus] Consensus calling: genome Alignments: 14
+2018-03-15 14:44:42,541 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1348ch=9sta.m5, Threads: 4
+2018-03-15 14:44:42,544 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:42,546 INFO  [Consensus] Consensus calling: genome Alignments: 3
+2018-03-15 14:44:42,814 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1349ch=344s.m5, Threads: 4
+2018-03-15 14:44:42,816 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:42,818 INFO  [Consensus] Consensus calling: genome Alignments: 45
+2018-03-15 14:44:43,078 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1350ch=189s.m5, Threads: 4
+2018-03-15 14:44:43,080 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:43,082 INFO  [Consensus] Consensus calling: genome Alignments: 23
+2018-03-15 14:44:43,334 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1354ch=232s.m5, Threads: 4
+2018-03-15 14:44:43,336 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:43,338 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:44:43,583 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1359ch=97st.m5, Threads: 4
+2018-03-15 14:44:43,585 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:43,587 INFO  [Consensus] Consensus calling: genome Alignments: 14
+2018-03-15 14:44:43,845 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1366ch=310s.m5, Threads: 4
+2018-03-15 14:44:43,847 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:43,849 INFO  [Consensus] Consensus calling: genome Alignments: 19
+2018-03-15 14:44:44,099 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1380ch=496s.m5, Threads: 4
+2018-03-15 14:44:44,101 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:44,103 INFO  [Consensus] Consensus calling: genome Alignments: 9
+2018-03-15 14:44:44,343 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1393ch=447s.m5, Threads: 4
+2018-03-15 14:44:44,345 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:44,347 INFO  [Consensus] Consensus calling: genome Alignments: 2
+2018-03-15 14:44:44,596 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1394ch=216s.m5, Threads: 4
+2018-03-15 14:44:44,598 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:44,600 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:44:44,841 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1396ch=447s.m5, Threads: 4
+2018-03-15 14:44:45,103 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1402ch=216s.m5, Threads: 4
+2018-03-15 14:44:45,106 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:45,108 INFO  [Consensus] Consensus calling: genome Alignments: 32
+2018-03-15 14:44:45,361 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1407ch=244s.m5, Threads: 4
+2018-03-15 14:44:45,363 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:45,365 INFO  [Consensus] Consensus calling: genome Alignments: 14
+2018-03-15 14:44:45,626 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1413ch=243s.m5, Threads: 4
+2018-03-15 14:44:45,628 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:45,630 INFO  [Consensus] Consensus calling: genome Alignments: 19
+2018-03-15 14:44:45,892 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1413ch=325s.m5, Threads: 4
+2018-03-15 14:44:45,894 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:45,896 INFO  [Consensus] Consensus calling: genome Alignments: 27
+2018-03-15 14:44:46,145 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1415ch=120s.m5, Threads: 4
+2018-03-15 14:44:46,148 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:46,150 INFO  [Consensus] Consensus calling: genome Alignments: 15
+2018-03-15 14:44:46,392 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1419ch=254s.m5, Threads: 4
+2018-03-15 14:44:46,394 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:46,396 INFO  [Consensus] Consensus calling: genome Alignments: 5
+2018-03-15 14:44:46,630 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1439ch=254s.m5, Threads: 4
+2018-03-15 14:44:46,632 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:46,634 INFO  [Consensus] Consensus calling: genome Alignments: 3
+2018-03-15 14:44:46,869 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1445ch=254s.m5, Threads: 4
+2018-03-15 14:44:47,120 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1453ch=81st.m5, Threads: 4
+2018-03-15 14:44:47,123 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:47,125 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:44:47,387 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1456ch=187s.m5, Threads: 4
+2018-03-15 14:44:47,389 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:47,391 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:44:47,648 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1456ch=45st.m5, Threads: 4
+2018-03-15 14:44:47,650 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:47,652 INFO  [Consensus] Consensus calling: genome Alignments: 27
+2018-03-15 14:44:47,900 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1459ch=256s.m5, Threads: 4
+2018-03-15 14:44:47,902 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:47,904 INFO  [Consensus] Consensus calling: genome Alignments: 15
+2018-03-15 14:44:48,161 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1476ch=174s.m5, Threads: 4
+2018-03-15 14:44:48,163 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:48,165 INFO  [Consensus] Consensus calling: genome Alignments: 24
+2018-03-15 14:44:48,439 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1495ch=191s.m5, Threads: 4
+2018-03-15 14:44:48,441 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:48,443 INFO  [Consensus] Consensus calling: genome Alignments: 53
+2018-03-15 14:44:48,697 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1498ch=189s.m5, Threads: 4
+2018-03-15 14:44:48,700 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:48,702 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:44:48,950 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1502ch=30st.m5, Threads: 4
+2018-03-15 14:44:48,952 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:48,954 INFO  [Consensus] Consensus calling: genome Alignments: 10
+2018-03-15 14:44:49,202 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1509ch=81st.m5, Threads: 4
+2018-03-15 14:44:49,205 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:49,207 INFO  [Consensus] Consensus calling: genome Alignments: 9
+2018-03-15 14:44:49,461 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1512ch=4sta.m5, Threads: 4
+2018-03-15 14:44:49,464 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:49,466 INFO  [Consensus] Consensus calling: genome Alignments: 28
+2018-03-15 14:44:49,728 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1516ch=216s.m5, Threads: 4
+2018-03-15 14:44:49,730 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:49,732 INFO  [Consensus] Consensus calling: genome Alignments: 29
+2018-03-15 14:44:49,988 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1531ch=191s.m5, Threads: 4
+2018-03-15 14:44:49,991 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:49,993 INFO  [Consensus] Consensus calling: genome Alignments: 26
+2018-03-15 14:44:50,243 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1535ch=20st.m5, Threads: 4
+2018-03-15 14:44:50,245 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:50,247 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:44:50,495 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1539ch=45st.m5, Threads: 4
+2018-03-15 14:44:50,498 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:50,501 INFO  [Consensus] Consensus calling: genome Alignments: 13
+2018-03-15 14:44:50,754 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1544ch=189s.m5, Threads: 4
+2018-03-15 14:44:50,756 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:50,758 INFO  [Consensus] Consensus calling: genome Alignments: 15
+2018-03-15 14:44:51,004 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1545ch=397s.m5, Threads: 4
+2018-03-15 14:44:51,007 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:51,010 INFO  [Consensus] Consensus calling: genome Alignments: 8
+2018-03-15 14:44:51,253 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1550ch=512s.m5, Threads: 4
+2018-03-15 14:44:51,256 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:51,258 INFO  [Consensus] Consensus calling: genome Alignments: 4
+2018-03-15 14:44:51,497 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1553ch=256s.m5, Threads: 4
+2018-03-15 14:44:51,499 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:51,501 INFO  [Consensus] Consensus calling: genome Alignments: 1
+2018-03-15 14:44:51,742 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1557ch=300s.m5, Threads: 4
+2018-03-15 14:44:51,744 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:51,746 INFO  [Consensus] Consensus calling: genome Alignments: 24
+2018-03-15 14:44:51,997 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1558ch=318s.m5, Threads: 4
+2018-03-15 14:44:52,000 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:52,002 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:44:52,250 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1559ch=243s.m5, Threads: 4
+2018-03-15 14:44:52,252 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:52,254 INFO  [Consensus] Consensus calling: genome Alignments: 15
+2018-03-15 14:44:52,495 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1559ch=30st.m5, Threads: 4
+2018-03-15 14:44:52,498 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:52,500 INFO  [Consensus] Consensus calling: genome Alignments: 6
+2018-03-15 14:44:52,754 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1559ch=496s.m5, Threads: 4
+2018-03-15 14:44:52,757 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:52,759 INFO  [Consensus] Consensus calling: genome Alignments: 18
+2018-03-15 14:44:53,003 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1569ch=192s.m5, Threads: 4
+2018-03-15 14:44:53,006 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:53,008 INFO  [Consensus] Consensus calling: genome Alignments: 6
+2018-03-15 14:44:53,249 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1570ch=344s.m5, Threads: 4
+2018-03-15 14:44:53,495 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1576ch=120s.m5, Threads: 4
+2018-03-15 14:44:53,498 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:53,500 INFO  [Consensus] Consensus calling: genome Alignments: 21
+2018-03-15 14:44:53,760 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1577ch=137s.m5, Threads: 4
+2018-03-15 14:44:53,762 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:53,764 INFO  [Consensus] Consensus calling: genome Alignments: 35
+2018-03-15 14:44:54,037 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1578ch=370s.m5, Threads: 4
+2018-03-15 14:44:54,039 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:54,041 INFO  [Consensus] Consensus calling: genome Alignments: 38
+2018-03-15 14:44:54,320 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1580ch=254s.m5, Threads: 4
+2018-03-15 14:44:54,324 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:54,326 INFO  [Consensus] Consensus calling: genome Alignments: 53
+2018-03-15 14:44:54,585 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1582ch=45st.m5, Threads: 4
+2018-03-15 14:44:54,587 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:54,590 INFO  [Consensus] Consensus calling: genome Alignments: 23
+2018-03-15 14:44:54,836 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1585ch=256s.m5, Threads: 4
+2018-03-15 14:44:54,838 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:54,840 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:44:55,099 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1586ch=45st.m5, Threads: 4
+2018-03-15 14:44:55,102 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:55,104 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:44:55,344 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1591ch=218s.m5, Threads: 4
+2018-03-15 14:44:55,598 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1597ch=181s.m5, Threads: 4
+2018-03-15 14:44:55,600 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:55,603 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:44:55,857 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1606ch=406s.m5, Threads: 4
+2018-03-15 14:44:55,859 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:55,861 INFO  [Consensus] Consensus calling: genome Alignments: 20
+2018-03-15 14:44:56,116 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1607ch=12st.m5, Threads: 4
+2018-03-15 14:44:56,119 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:56,122 INFO  [Consensus] Consensus calling: genome Alignments: 15
+2018-03-15 14:44:56,364 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1608ch=218s.m5, Threads: 4
+2018-03-15 14:44:56,366 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:56,368 INFO  [Consensus] Consensus calling: genome Alignments: 1
+2018-03-15 14:44:56,612 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1610ch=112s.m5, Threads: 4
+2018-03-15 14:44:56,615 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:56,618 INFO  [Consensus] Consensus calling: genome Alignments: 9
+2018-03-15 14:44:56,873 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1610ch=4sta.m5, Threads: 4
+2018-03-15 14:44:56,876 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:56,878 INFO  [Consensus] Consensus calling: genome Alignments: 19
+2018-03-15 14:44:57,166 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1613ch=424s.m5, Threads: 4
+2018-03-15 14:44:57,169 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:57,171 INFO  [Consensus] Consensus calling: genome Alignments: 58
+2018-03-15 14:44:57,429 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1614ch=4sta.m5, Threads: 4
+2018-03-15 14:44:57,432 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:57,434 INFO  [Consensus] Consensus calling: genome Alignments: 23
+2018-03-15 14:44:57,690 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1629ch=254s.m5, Threads: 4
+2018-03-15 14:44:57,693 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:57,695 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:44:57,945 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1630ch=192s.m5, Threads: 4
+2018-03-15 14:44:57,948 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:57,951 INFO  [Consensus] Consensus calling: genome Alignments: 10
+2018-03-15 14:44:58,207 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1634ch=453s.m5, Threads: 4
+2018-03-15 14:44:58,210 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:58,212 INFO  [Consensus] Consensus calling: genome Alignments: 13
+2018-03-15 14:44:58,465 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1635ch=192s.m5, Threads: 4
+2018-03-15 14:44:58,468 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:58,470 INFO  [Consensus] Consensus calling: genome Alignments: 19
+2018-03-15 14:44:58,712 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1649ch=318s.m5, Threads: 4
+2018-03-15 14:44:58,715 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:58,717 INFO  [Consensus] Consensus calling: genome Alignments: 13
+2018-03-15 14:44:58,970 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1662ch=504s.m5, Threads: 4
+2018-03-15 14:44:58,973 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:58,975 INFO  [Consensus] Consensus calling: genome Alignments: 18
+2018-03-15 14:44:59,242 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1665ch=440s.m5, Threads: 4
+2018-03-15 14:44:59,244 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:59,246 INFO  [Consensus] Consensus calling: genome Alignments: 24
+2018-03-15 14:44:59,500 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1670ch=278s.m5, Threads: 4
+2018-03-15 14:44:59,503 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:59,505 INFO  [Consensus] Consensus calling: genome Alignments: 20
+2018-03-15 14:44:59,742 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1671ch=218s.m5, Threads: 4
+2018-03-15 14:44:59,986 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1684ch=30st.m5, Threads: 4
+2018-03-15 14:44:59,989 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:44:59,991 INFO  [Consensus] Consensus calling: genome Alignments: 10
+2018-03-15 14:45:00,247 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1694ch=232s.m5, Threads: 4
+2018-03-15 14:45:00,249 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:00,251 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:45:00,499 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1697ch=72st.m5, Threads: 4
+2018-03-15 14:45:00,502 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:00,504 INFO  [Consensus] Consensus calling: genome Alignments: 19
+2018-03-15 14:45:00,763 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1699ch=32st.m5, Threads: 4
+2018-03-15 14:45:00,765 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:00,767 INFO  [Consensus] Consensus calling: genome Alignments: 31
+2018-03-15 14:45:01,006 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1707ch=376s.m5, Threads: 4
+2018-03-15 14:45:01,253 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1721ch=12st.m5, Threads: 4
+2018-03-15 14:45:01,255 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:01,257 INFO  [Consensus] Consensus calling: genome Alignments: 18
+2018-03-15 14:45:01,497 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1723ch=175s.m5, Threads: 4
+2018-03-15 14:45:01,500 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:01,502 INFO  [Consensus] Consensus calling: genome Alignments: 6
+2018-03-15 14:45:01,755 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1736ch=300s.m5, Threads: 4
+2018-03-15 14:45:01,757 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:01,759 INFO  [Consensus] Consensus calling: genome Alignments: 27
+2018-03-15 14:45:02,012 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1737ch=253s.m5, Threads: 4
+2018-03-15 14:45:02,014 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:02,016 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:45:02,277 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1738ch=400s.m5, Threads: 4
+2018-03-15 14:45:02,280 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:02,283 INFO  [Consensus] Consensus calling: genome Alignments: 21
+2018-03-15 14:45:02,534 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1742ch=400s.m5, Threads: 4
+2018-03-15 14:45:02,536 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:02,538 INFO  [Consensus] Consensus calling: genome Alignments: 20
+2018-03-15 14:45:02,789 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1743ch=319s.m5, Threads: 4
+2018-03-15 14:45:02,792 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:02,794 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:45:03,042 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1753ch=183s.m5, Threads: 4
+2018-03-15 14:45:03,044 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:03,046 INFO  [Consensus] Consensus calling: genome Alignments: 13
+2018-03-15 14:45:03,327 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1765ch=453s.m5, Threads: 4
+2018-03-15 14:45:03,331 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:03,333 INFO  [Consensus] Consensus calling: genome Alignments: 40
+2018-03-15 14:45:03,597 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1778ch=308s.m5, Threads: 4
+2018-03-15 14:45:03,599 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:03,602 INFO  [Consensus] Consensus calling: genome Alignments: 28
+2018-03-15 14:45:03,861 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1792ch=440s.m5, Threads: 4
+2018-03-15 14:45:03,863 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:03,865 INFO  [Consensus] Consensus calling: genome Alignments: 27
+2018-03-15 14:45:04,107 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1806ch=464s.m5, Threads: 4
+2018-03-15 14:45:04,109 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:04,115 INFO  [Consensus] Consensus calling: genome Alignments: 3
+2018-03-15 14:45:04,364 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1819ch=266s.m5, Threads: 4
+2018-03-15 14:45:04,366 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:04,368 INFO  [Consensus] Consensus calling: genome Alignments: 15
+2018-03-15 14:45:04,638 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1820ch=245s.m5, Threads: 4
+2018-03-15 14:45:04,640 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:04,642 INFO  [Consensus] Consensus calling: genome Alignments: 36
+2018-03-15 14:45:04,881 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1822ch=350s.m5, Threads: 4
+2018-03-15 14:45:04,883 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:04,885 INFO  [Consensus] Consensus calling: genome Alignments: 1
+2018-03-15 14:45:05,139 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1822ch=4sta.m5, Threads: 4
+2018-03-15 14:45:05,142 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:05,144 INFO  [Consensus] Consensus calling: genome Alignments: 24
+2018-03-15 14:45:05,390 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1829ch=183s.m5, Threads: 4
+2018-03-15 14:45:05,392 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:05,395 INFO  [Consensus] Consensus calling: genome Alignments: 18
+2018-03-15 14:45:05,636 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1843ch=331s.m5, Threads: 4
+2018-03-15 14:45:05,638 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:05,640 INFO  [Consensus] Consensus calling: genome Alignments: 1
+2018-03-15 14:45:05,891 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1850ch=254s.m5, Threads: 4
+2018-03-15 14:45:05,894 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:05,896 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:45:06,146 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1859ch=331s.m5, Threads: 4
+2018-03-15 14:45:06,148 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:06,150 INFO  [Consensus] Consensus calling: genome Alignments: 3
+2018-03-15 14:45:06,382 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1860ch=251s.m5, Threads: 4
+2018-03-15 14:45:06,384 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:06,386 INFO  [Consensus] Consensus calling: genome Alignments: 4
+2018-03-15 14:45:06,621 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1860ch=461s.m5, Threads: 4
+2018-03-15 14:45:06,623 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:06,625 INFO  [Consensus] Consensus calling: genome Alignments: 3
+2018-03-15 14:45:06,872 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1867ch=230s.m5, Threads: 4
+2018-03-15 14:45:06,874 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:06,877 INFO  [Consensus] Consensus calling: genome Alignments: 23
+2018-03-15 14:45:07,116 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1867ch=331s.m5, Threads: 4
+2018-03-15 14:45:07,118 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:07,120 INFO  [Consensus] Consensus calling: genome Alignments: 2
+2018-03-15 14:45:07,381 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1868ch=370s.m5, Threads: 4
+2018-03-15 14:45:07,384 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:07,386 INFO  [Consensus] Consensus calling: genome Alignments: 29
+2018-03-15 14:45:07,641 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1874ch=12st.m5, Threads: 4
+2018-03-15 14:45:07,644 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:07,646 INFO  [Consensus] Consensus calling: genome Alignments: 29
+2018-03-15 14:45:07,893 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1883ch=318s.m5, Threads: 4
+2018-03-15 14:45:07,895 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:07,897 INFO  [Consensus] Consensus calling: genome Alignments: 20
+2018-03-15 14:45:08,156 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1891ch=300s.m5, Threads: 4
+2018-03-15 14:45:08,159 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:08,161 INFO  [Consensus] Consensus calling: genome Alignments: 19
+2018-03-15 14:45:08,409 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1896ch=254s.m5, Threads: 4
+2018-03-15 14:45:08,411 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:08,413 INFO  [Consensus] Consensus calling: genome Alignments: 30
+2018-03-15 14:45:08,659 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1897ch=380s.m5, Threads: 4
+2018-03-15 14:45:08,662 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:08,664 INFO  [Consensus] Consensus calling: genome Alignments: 22
+2018-03-15 14:45:08,911 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1906ch=120s.m5, Threads: 4
+2018-03-15 14:45:08,913 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:08,915 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:45:09,154 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1926ch=190s.m5, Threads: 4
+2018-03-15 14:45:09,386 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1938ch=464s.m5, Threads: 4
+2018-03-15 14:45:09,388 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:09,390 INFO  [Consensus] Consensus calling: genome Alignments: 5
+2018-03-15 14:45:09,649 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1939ch=12st.m5, Threads: 4
+2018-03-15 14:45:09,652 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:09,655 INFO  [Consensus] Consensus calling: genome Alignments: 27
+2018-03-15 14:45:09,901 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1960ch=190s.m5, Threads: 4
+2018-03-15 14:45:09,904 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:09,906 INFO  [Consensus] Consensus calling: genome Alignments: 4
+2018-03-15 14:45:10,169 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1981ch=174s.m5, Threads: 4
+2018-03-15 14:45:10,172 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:10,174 INFO  [Consensus] Consensus calling: genome Alignments: 26
+2018-03-15 14:45:10,418 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=1981ch=251s.m5, Threads: 4
+2018-03-15 14:45:10,420 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:10,423 INFO  [Consensus] Consensus calling: genome Alignments: 1
+2018-03-15 14:45:10,672 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2001ch=278s.m5, Threads: 4
+2018-03-15 14:45:10,675 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:10,677 INFO  [Consensus] Consensus calling: genome Alignments: 21
+2018-03-15 14:45:10,927 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2023ch=245s.m5, Threads: 4
+2018-03-15 14:45:10,930 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:10,932 INFO  [Consensus] Consensus calling: genome Alignments: 40
+2018-03-15 14:45:11,211 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2049ch=256s.m5, Threads: 4
+2018-03-15 14:45:11,214 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:11,216 INFO  [Consensus] Consensus calling: genome Alignments: 37
+2018-03-15 14:45:11,451 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2061ch=350s.m5, Threads: 4
+2018-03-15 14:45:11,454 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:11,456 INFO  [Consensus] Consensus calling: genome Alignments: 1
+2018-03-15 14:45:11,698 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2067ch=512s.m5, Threads: 4
+2018-03-15 14:45:11,701 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:11,704 INFO  [Consensus] Consensus calling: genome Alignments: 4
+2018-03-15 14:45:11,946 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2079ch=120s.m5, Threads: 4
+2018-03-15 14:45:11,948 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:11,950 INFO  [Consensus] Consensus calling: genome Alignments: 12
+2018-03-15 14:45:12,193 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2083ch=251s.m5, Threads: 4
+2018-03-15 14:45:12,444 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2091ch=112s.m5, Threads: 4
+2018-03-15 14:45:12,446 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:12,448 INFO  [Consensus] Consensus calling: genome Alignments: 9
+2018-03-15 14:45:12,693 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2101ch=230s.m5, Threads: 4
+2018-03-15 14:45:12,698 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:12,700 INFO  [Consensus] Consensus calling: genome Alignments: 13
+2018-03-15 14:45:12,929 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2127ch=63st.m5, Threads: 4
+2018-03-15 14:45:13,173 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2128ch=176s.m5, Threads: 4
+2018-03-15 14:45:13,176 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:13,178 INFO  [Consensus] Consensus calling: genome Alignments: 10
+2018-03-15 14:45:13,414 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2135ch=103s.m5, Threads: 4
+2018-03-15 14:45:13,658 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2196ch=167s.m5, Threads: 4
+2018-03-15 14:45:13,660 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:13,662 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:45:13,903 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2199ch=350s.m5, Threads: 4
+2018-03-15 14:45:14,148 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2201ch=436s.m5, Threads: 4
+2018-03-15 14:45:14,150 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:14,157 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:45:14,398 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2225ch=174s.m5, Threads: 4
+2018-03-15 14:45:14,401 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:14,403 INFO  [Consensus] Consensus calling: genome Alignments: 2
+2018-03-15 14:45:14,649 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2246ch=120s.m5, Threads: 4
+2018-03-15 14:45:14,652 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:14,654 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:45:14,892 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2246ch=258s.m5, Threads: 4
+2018-03-15 14:45:14,894 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:14,896 INFO  [Consensus] Consensus calling: genome Alignments: 1
+2018-03-15 14:45:15,134 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2247ch=512s.m5, Threads: 4
+2018-03-15 14:45:15,136 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:15,138 INFO  [Consensus] Consensus calling: genome Alignments: 8
+2018-03-15 14:45:15,392 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2337ch=230s.m5, Threads: 4
+2018-03-15 14:45:15,395 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:15,397 INFO  [Consensus] Consensus calling: genome Alignments: 21
+2018-03-15 14:45:15,648 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2344ch=498s.m5, Threads: 4
+2018-03-15 14:45:15,651 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:15,652 INFO  [Consensus] Consensus calling: genome Alignments: 14
+2018-03-15 14:45:15,891 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2388ch=331s.m5, Threads: 4
+2018-03-15 14:45:15,893 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:15,895 INFO  [Consensus] Consensus calling: genome Alignments: 1
+2018-03-15 14:45:16,153 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2418ch=249s.m5, Threads: 4
+2018-03-15 14:45:16,156 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:16,158 INFO  [Consensus] Consensus calling: genome Alignments: 38
+2018-03-15 14:45:16,423 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=241ch=354st.m5, Threads: 4
+2018-03-15 14:45:16,426 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:16,428 INFO  [Consensus] Consensus calling: genome Alignments: 23
+2018-03-15 14:45:16,662 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2427ch=190s.m5, Threads: 4
+2018-03-15 14:45:16,904 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2463ch=258s.m5, Threads: 4
+2018-03-15 14:45:16,907 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:16,909 INFO  [Consensus] Consensus calling: genome Alignments: 15
+2018-03-15 14:45:17,145 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2550ch=55st.m5, Threads: 4
+2018-03-15 14:45:17,397 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2591ch=230s.m5, Threads: 4
+2018-03-15 14:45:17,400 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:17,402 INFO  [Consensus] Consensus calling: genome Alignments: 21
+2018-03-15 14:45:17,641 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2609ch=464s.m5, Threads: 4
+2018-03-15 14:45:17,643 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:17,645 INFO  [Consensus] Consensus calling: genome Alignments: 2
+2018-03-15 14:45:17,882 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2627ch=512s.m5, Threads: 4
+2018-03-15 14:45:17,885 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:17,887 INFO  [Consensus] Consensus calling: genome Alignments: 4
+2018-03-15 14:45:18,126 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2637ch=190s.m5, Threads: 4
+2018-03-15 14:45:18,128 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:18,131 INFO  [Consensus] Consensus calling: genome Alignments: 3
+2018-03-15 14:45:18,371 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2646ch=190s.m5, Threads: 4
+2018-03-15 14:45:18,612 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2679ch=247s.m5, Threads: 4
+2018-03-15 14:45:18,615 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:18,617 INFO  [Consensus] Consensus calling: genome Alignments: 15
+2018-03-15 14:45:18,854 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2685ch=230s.m5, Threads: 4
+2018-03-15 14:45:19,096 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2724ch=247s.m5, Threads: 4
+2018-03-15 14:45:19,099 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:19,101 INFO  [Consensus] Consensus calling: genome Alignments: 29
+2018-03-15 14:45:19,346 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2756ch=279s.m5, Threads: 4
+2018-03-15 14:45:19,349 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:19,351 INFO  [Consensus] Consensus calling: genome Alignments: 3
+2018-03-15 14:45:19,591 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2767ch=190s.m5, Threads: 4
+2018-03-15 14:45:19,593 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:19,595 INFO  [Consensus] Consensus calling: genome Alignments: 6
+2018-03-15 14:45:19,832 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2771ch=190s.m5, Threads: 4
+2018-03-15 14:45:19,835 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:19,837 INFO  [Consensus] Consensus calling: genome Alignments: 3
+2018-03-15 14:45:20,089 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2923ch=230s.m5, Threads: 4
+2018-03-15 14:45:20,092 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:20,094 INFO  [Consensus] Consensus calling: genome Alignments: 15
+2018-03-15 14:45:20,340 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=2953ch=279s.m5, Threads: 4
+2018-03-15 14:45:20,342 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:20,344 INFO  [Consensus] Consensus calling: genome Alignments: 4
+2018-03-15 14:45:20,585 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=3001ch=373s.m5, Threads: 4
+2018-03-15 14:45:20,587 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:20,589 INFO  [Consensus] Consensus calling: genome Alignments: 11
+2018-03-15 14:45:20,833 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=3040ch=230s.m5, Threads: 4
+2018-03-15 14:45:20,836 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:20,838 INFO  [Consensus] Consensus calling: genome Alignments: 10
+2018-03-15 14:45:21,074 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=3110ch=373s.m5, Threads: 4
+2018-03-15 14:45:21,077 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:21,079 INFO  [Consensus] Consensus calling: genome Alignments: 15
+2018-03-15 14:45:21,334 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=3111ch=150s.m5, Threads: 4
+2018-03-15 14:45:21,337 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:21,339 INFO  [Consensus] Consensus calling: genome Alignments: 12
+2018-03-15 14:45:21,586 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=3127ch=373s.m5, Threads: 4
+2018-03-15 14:45:21,588 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:21,590 INFO  [Consensus] Consensus calling: genome Alignments: 19
+2018-03-15 14:45:21,831 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=3293ch=279s.m5, Threads: 4
+2018-03-15 14:45:21,834 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:21,836 INFO  [Consensus] Consensus calling: genome Alignments: 11
+2018-03-15 14:45:22,092 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=3376ch=247s.m5, Threads: 4
+2018-03-15 14:45:22,094 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:22,096 INFO  [Consensus] Consensus calling: genome Alignments: 25
+2018-03-15 14:45:22,348 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=3637ch=102s.m5, Threads: 4
+2018-03-15 14:45:22,351 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:22,353 INFO  [Consensus] Consensus calling: genome Alignments: 10
+2018-03-15 14:45:22,601 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=3793ch=150s.m5, Threads: 4
+2018-03-15 14:45:22,603 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:22,605 INFO  [Consensus] Consensus calling: genome Alignments: 19
+2018-03-15 14:45:22,854 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=389ch=354st.m5, Threads: 4
+2018-03-15 14:45:22,856 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:22,858 INFO  [Consensus] Consensus calling: genome Alignments: 22
+2018-03-15 14:45:23,107 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=4058ch=90st.m5, Threads: 4
+2018-03-15 14:45:23,109 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:23,111 INFO  [Consensus] Consensus calling: genome Alignments: 13
+2018-03-15 14:45:23,366 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=4080ch=96st.m5, Threads: 4
+2018-03-15 14:45:23,369 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:23,370 INFO  [Consensus] Consensus calling: genome Alignments: 18
+2018-03-15 14:45:23,627 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=4207ch=296s.m5, Threads: 4
+2018-03-15 14:45:23,629 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:23,631 INFO  [Consensus] Consensus calling: genome Alignments: 25
+2018-03-15 14:45:23,875 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=4281ch=96st.m5, Threads: 4
+2018-03-15 14:45:23,877 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:23,879 INFO  [Consensus] Consensus calling: genome Alignments: 14
+2018-03-15 14:45:24,129 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=4346ch=96st.m5, Threads: 4
+2018-03-15 14:45:24,131 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:24,133 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:45:24,378 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=4982ch=296s.m5, Threads: 4
+2018-03-15 14:45:24,380 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:24,382 INFO  [Consensus] Consensus calling: genome Alignments: 18
+2018-03-15 14:45:24,623 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=509ch=363st.m5, Threads: 4
+2018-03-15 14:45:24,625 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:24,627 INFO  [Consensus] Consensus calling: genome Alignments: 10
+2018-03-15 14:45:24,879 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=534ch=508st.m5, Threads: 4
+2018-03-15 14:45:24,881 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:24,883 INFO  [Consensus] Consensus calling: genome Alignments: 19
+2018-03-15 14:45:25,125 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=539ch=301st.m5, Threads: 4
+2018-03-15 14:45:25,127 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:25,130 INFO  [Consensus] Consensus calling: genome Alignments: 3
+2018-03-15 14:45:25,370 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=584ch=493st.m5, Threads: 4
+2018-03-15 14:45:25,372 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:25,374 INFO  [Consensus] Consensus calling: genome Alignments: 1
+2018-03-15 14:45:25,617 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=584ch=49sta.m5, Threads: 4
+2018-03-15 14:45:25,620 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:25,622 INFO  [Consensus] Consensus calling: genome Alignments: 19
+2018-03-15 14:45:25,916 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=646ch=5star.m5, Threads: 4
+2018-03-15 14:45:25,919 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:25,921 INFO  [Consensus] Consensus calling: genome Alignments: 71
+2018-03-15 14:45:26,174 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=661ch=505st.m5, Threads: 4
+2018-03-15 14:45:26,176 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:26,179 INFO  [Consensus] Consensus calling: genome Alignments: 9
+2018-03-15 14:45:26,435 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=675ch=5star.m5, Threads: 4
+2018-03-15 14:45:26,438 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:26,440 INFO  [Consensus] Consensus calling: genome Alignments: 24
+2018-03-15 14:45:26,685 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=678ch=486st.m5, Threads: 4
+2018-03-15 14:45:26,688 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:26,690 INFO  [Consensus] Consensus calling: genome Alignments: 18
+2018-03-15 14:45:26,940 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=721ch=137st.m5, Threads: 4
+2018-03-15 14:45:26,942 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:26,944 INFO  [Consensus] Consensus calling: genome Alignments: 18
+2018-03-15 14:45:27,206 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=730ch=362st.m5, Threads: 4
+2018-03-15 14:45:27,208 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:27,211 INFO  [Consensus] Consensus calling: genome Alignments: 28
+2018-03-15 14:45:27,463 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=734ch=362st.m5, Threads: 4
+2018-03-15 14:45:27,466 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:27,468 INFO  [Consensus] Consensus calling: genome Alignments: 35
+2018-03-15 14:45:27,729 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=738ch=499st.m5, Threads: 4
+2018-03-15 14:45:27,732 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:27,734 INFO  [Consensus] Consensus calling: genome Alignments: 21
+2018-03-15 14:45:27,978 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=753ch=298st.m5, Threads: 4
+2018-03-15 14:45:27,980 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:27,982 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:45:28,237 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=760ch=508st.m5, Threads: 4
+2018-03-15 14:45:28,240 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:28,242 INFO  [Consensus] Consensus calling: genome Alignments: 20
+2018-03-15 14:45:28,483 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=776ch=374st.m5, Threads: 4
+2018-03-15 14:45:28,738 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=783ch=270st.m5, Threads: 4
+2018-03-15 14:45:28,741 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:28,743 INFO  [Consensus] Consensus calling: genome Alignments: 29
+2018-03-15 14:45:29,005 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=784ch=49sta.m5, Threads: 4
+2018-03-15 14:45:29,008 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:29,010 INFO  [Consensus] Consensus calling: genome Alignments: 39
+2018-03-15 14:45:29,276 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=784ch=5star.m5, Threads: 4
+2018-03-15 14:45:29,278 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:29,280 INFO  [Consensus] Consensus calling: genome Alignments: 50
+2018-03-15 14:45:29,528 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=789ch=1star.m5, Threads: 4
+2018-03-15 14:45:29,531 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:29,533 INFO  [Consensus] Consensus calling: genome Alignments: 7
+2018-03-15 14:45:29,773 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=794ch=377st.m5, Threads: 4
+2018-03-15 14:45:29,775 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:29,777 INFO  [Consensus] Consensus calling: genome Alignments: 10
+2018-03-15 14:45:30,027 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=809ch=117st.m5, Threads: 4
+2018-03-15 14:45:30,030 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:30,032 INFO  [Consensus] Consensus calling: genome Alignments: 15
+2018-03-15 14:45:30,285 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=814ch=497st.m5, Threads: 4
+2018-03-15 14:45:30,531 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=816ch=497st.m5, Threads: 4
+2018-03-15 14:45:30,533 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:30,536 INFO  [Consensus] Consensus calling: genome Alignments: 2
+2018-03-15 14:45:30,793 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=816ch=508st.m5, Threads: 4
+2018-03-15 14:45:30,796 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:30,798 INFO  [Consensus] Consensus calling: genome Alignments: 20
+2018-03-15 14:45:31,048 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=818ch=508st.m5, Threads: 4
+2018-03-15 14:45:31,051 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:31,053 INFO  [Consensus] Consensus calling: genome Alignments: 21
+2018-03-15 14:45:31,309 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=820ch=363st.m5, Threads: 4
+2018-03-15 14:45:31,312 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:31,314 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:45:31,564 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=838ch=237st.m5, Threads: 4
+2018-03-15 14:45:31,567 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:31,569 INFO  [Consensus] Consensus calling: genome Alignments: 18
+2018-03-15 14:45:31,822 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=843ch=499st.m5, Threads: 4
+2018-03-15 14:45:31,825 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:31,826 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:45:32,077 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=845ch=497st.m5, Threads: 4
+2018-03-15 14:45:32,080 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:32,082 INFO  [Consensus] Consensus calling: genome Alignments: 21
+2018-03-15 14:45:32,329 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=853ch=508st.m5, Threads: 4
+2018-03-15 14:45:32,332 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:32,334 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:45:32,579 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=860ch=9star.m5, Threads: 4
+2018-03-15 14:45:32,581 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:32,584 INFO  [Consensus] Consensus calling: genome Alignments: 11
+2018-03-15 14:45:32,835 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=861ch=284st.m5, Threads: 4
+2018-03-15 14:45:32,837 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:32,840 INFO  [Consensus] Consensus calling: genome Alignments: 11
+2018-03-15 14:45:33,091 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=865ch=309st.m5, Threads: 4
+2018-03-15 14:45:33,335 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=865ch=499st.m5, Threads: 4
+2018-03-15 14:45:33,338 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:33,340 INFO  [Consensus] Consensus calling: genome Alignments: 2
+2018-03-15 14:45:33,592 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=870ch=105st.m5, Threads: 4
+2018-03-15 14:45:33,594 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:33,596 INFO  [Consensus] Consensus calling: genome Alignments: 20
+2018-03-15 14:45:33,839 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=870ch=309st.m5, Threads: 4
+2018-03-15 14:45:34,177 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=871ch=420st.m5, Threads: 4
+2018-03-15 14:45:34,180 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:34,182 INFO  [Consensus] Consensus calling: genome Alignments: 126
+2018-03-15 14:45:34,442 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=880ch=441st.m5, Threads: 4
+2018-03-15 14:45:34,445 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:34,447 INFO  [Consensus] Consensus calling: genome Alignments: 18
+2018-03-15 14:45:34,720 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=886ch=284st.m5, Threads: 4
+2018-03-15 14:45:34,723 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:34,725 INFO  [Consensus] Consensus calling: genome Alignments: 53
+2018-03-15 14:45:34,976 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=892ch=493st.m5, Threads: 4
+2018-03-15 14:45:34,978 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:34,980 INFO  [Consensus] Consensus calling: genome Alignments: 19
+2018-03-15 14:45:35,239 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=897ch=441st.m5, Threads: 4
+2018-03-15 14:45:35,242 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:35,244 INFO  [Consensus] Consensus calling: genome Alignments: 28
+2018-03-15 14:45:35,493 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=897ch=486st.m5, Threads: 4
+2018-03-15 14:45:35,496 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:35,498 INFO  [Consensus] Consensus calling: genome Alignments: 30
+2018-03-15 14:45:35,737 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=911ch=309st.m5, Threads: 4
+2018-03-15 14:45:35,974 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=915ch=165st.m5, Threads: 4
+2018-03-15 14:45:36,224 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=915ch=432st.m5, Threads: 4
+2018-03-15 14:45:36,227 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:36,229 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:45:36,488 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=918ch=5star.m5, Threads: 4
+2018-03-15 14:45:36,490 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:36,493 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:45:36,737 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=926ch=309st.m5, Threads: 4
+2018-03-15 14:45:36,978 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=926ch=411st.m5, Threads: 4
+2018-03-15 14:45:36,981 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:36,983 INFO  [Consensus] Consensus calling: genome Alignments: 4
+2018-03-15 14:45:37,216 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=937ch=309st.m5, Threads: 4
+2018-03-15 14:45:37,467 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=941ch=428st.m5, Threads: 4
+2018-03-15 14:45:37,470 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:37,472 INFO  [Consensus] Consensus calling: genome Alignments: 14
+2018-03-15 14:45:37,722 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=951ch=243st.m5, Threads: 4
+2018-03-15 14:45:37,724 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:37,726 INFO  [Consensus] Consensus calling: genome Alignments: 17
+2018-03-15 14:45:37,995 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=951ch=314st.m5, Threads: 4
+2018-03-15 14:45:37,997 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:37,999 INFO  [Consensus] Consensus calling: genome Alignments: 37
+2018-03-15 14:45:38,244 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=963ch=510st.m5, Threads: 4
+2018-03-15 14:45:38,247 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:38,249 INFO  [Consensus] Consensus calling: genome Alignments: 11
+2018-03-15 14:45:38,486 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=971ch=16sta.m5, Threads: 4
+2018-03-15 14:45:38,488 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:38,490 INFO  [Consensus] Consensus calling: genome Alignments: 1
+2018-03-15 14:45:38,736 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=971ch=284st.m5, Threads: 4
+2018-03-15 14:45:38,738 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:38,740 INFO  [Consensus] Consensus calling: genome Alignments: 20
+2018-03-15 14:45:38,987 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=975ch=6star.m5, Threads: 4
+2018-03-15 14:45:38,990 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:38,992 INFO  [Consensus] Consensus calling: genome Alignments: 13
+2018-03-15 14:45:39,251 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=976ch=403st.m5, Threads: 4
+2018-03-15 14:45:39,254 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:39,256 INFO  [Consensus] Consensus calling: genome Alignments: 27
+2018-03-15 14:45:39,519 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=986ch=441st.m5, Threads: 4
+2018-03-15 14:45:39,521 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:39,523 INFO  [Consensus] Consensus calling: genome Alignments: 23
+2018-03-15 14:45:39,780 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=990ch=377st.m5, Threads: 4
+2018-03-15 14:45:39,782 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:39,784 INFO  [Consensus] Consensus calling: genome Alignments: 16
+2018-03-15 14:45:40,042 INFO  [default] Multi-threaded. Input: ./G/m5/align_read=993ch=504st.m5, Threads: 4
+2018-03-15 14:45:40,045 DEBUG [Reader] [root@unknown-host] [FUNCTION] [FILE:0] Consensus candidate: genome
+2018-03-15 14:45:40,048 INFO  [Consensus] Consensus calling: genome Alignments: 26
