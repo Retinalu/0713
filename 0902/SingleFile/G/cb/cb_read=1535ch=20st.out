@@ -1,0 +1,60 @@
+BLASTN 2.2.31+
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= genome/0_364
+
+Length=364
+
+
+ Score = 434 bits (480),  Expect = 4e-126
+ Identities = 351/408 (86%), Gaps = 44/408 (11%)
+ Strand=Plus/Plus
+
+Query  120  TCGTTGCGGGACTTAACCCAACATCTCACGACACGAGCTGACGACAGCCATGCAGCACCT  179
+            |||||||||||||||||| ||||||   ||||| ||||||||||||||||||||||||||
+Sbjct  1    TCGTTGCGGGACTTAACC-AACATC---CGACATGAGCTGACGACAGCCATGCAGCACCT  56
+
+Query  180  GTGTCCACTTTCTCTTTCGAGCACCTAATGCATCTCTGCTTCGTTAGTGGCATGTCAAGG  239
+            | |||||||||||||| ||| |||||  |||||||||||||  |||||||   || ||||
+Sbjct  57   GCGTCCACTTTCTCTT-CGA-CACCT--TGCATCTCTGCTT--TTAGTGG---GT-AAGG  106
+
+Query  240  GTAGGTAAGGTTTTTCGCGTTGCATCGAATTAATCCACATCATCCACCGCTTGTGCGGGT  299
+            ||||||     |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  107  GTAGGTG----TTTTCGCGTTGCATCGAATTAATCCACATCATCCACCGCTTGTGCGGGT  162
+
+Query  300  CCCCGTCAATTCCTTTGAGTTTTAATCTTGCGACCGTACTCCCCAGGCGGTCAACTTCAC  359
+            |||||||||||||||||||||||||||||          | || |||| ||||||  |||
+Sbjct  163  CCCCGTCAATTCCTTTGAGTTTTAATCTT----------TACCTAGGCAGTCAAC--CAC  210
+
+Query  360  GCGTTAGCTACGTTACTAAGGAAATGAATCCCCAACAACTAGTTGACATCGTTTAGGGCG  419
+            |||||||||||||||| |  |||||||||||    ||||||||||| ||||||| |||||
+Sbjct  211  GCGTTAGCTACGTTACAAGCGAAATGAATCC----CAACTAGTTGA-ATCGTTTGGGGCG  265
+
+Query  420  TGGACTACCAGGGTATCTAATCCTGTTTGCTCCCCACGCTTTCGTGCATGAGCGTCAGTG  479
+            |||||||||| ||||||||| ||||||||  ||||||||   ||||||||| || |||||
+Sbjct  266  TGGACTACCA-GGTATCTAA-CCTGTTTG--CCCCACGC---CGTGCATGA-CGCCAGTG  317
+
+Query  480  TTATCCCAGGAGGCTGCCTTCGCCATCGGTATTCCTCCACATCTCTAC  527
+            ||||||||||||||||||||||||||||||||||| |  |||||||||
+Sbjct  318  TTATCCCAGGAGGCTGCCTTCGCCATCGGTATTCC-CTCCATCTCTAC  364
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 189024
+
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

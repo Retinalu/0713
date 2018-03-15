@@ -1,0 +1,60 @@
+BLASTN 2.2.31+
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= genome/0_409
+
+Length=409
+
+
+ Score = 661 bits (732),  Expect = 0.0
+ Identities = 405/419 (97%), Gaps = 10/419 (2%)
+ Strand=Plus/Plus
+
+Query  3    tatatataatatatataAGGGCCATGAGGACTTGACGTCATCCCCACCTTCCTCCGGTTT  62
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  1    TATATATAATATATATAAGGGCCATGAGGACTTGACGTCATCCC-ACCTTCCTCCGGTTT  59
+
+Query  63   GTCACCGGCAGTCTCTCTAGAGTGCCCTTTCGTAGCAACTAGAGACAAGGGTTGCGCTCG  122
+            ||||  |||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  60   GTCA--GGCAGTCTCTCTAGAGTGCCCTTTCGTAGCAACTAGAGACAAGG-TTGCGCTCG  116
+
+Query  123  TTGCGGGACTTAACCCAACATCTCACGACACGAGCTGACGACAGCCATGCAGCACCTGTG  182
+            |||||| |||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  117  TTGCGG-ACTTAACCCAACATCTCACGACACGA-CTGACGACAGCCATGCAGCACCTGTG  174
+
+Query  183  TCCACTTTCTCTTTCGAGCACCTAATGCATCTCTGCTTCGTTAGTGGCATGTCAAGGGTA  242
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  175  TCCACTTTCTCTTTCGAGCACCTAATGCATCTCTGCTTCGTTAGTGGCATGTCAAGGGTA  234
+
+Query  243  GGTAAGGTTTTTCGCGTTGCATCGAATTAATCCACATCATCCACCGCTTGTGCGGGTCCC  302
+            ||||||| |||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  235  GGTAAGG-TTTTCGCGTTGCATCGAATTAATCCACATCATCCACCGCTTGTG-GGGTCCC  292
+
+Query  303  CGTCAATTCCTTTGAGTTTTAATCTTGCGACCGTACTCCCCAGGCGGTCAACTTCACGCG  362
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  293  CGTCAATTCCTTTGAGTTTTAATCTTGCGACCGTACTCCCCAGGCGGTCAACTTCACGCG  352
+
+Query  363  TTAGCTACGTTACTAAGGAAATGAATCCCCAACAACTAGTTGACATCGTTTAGGGCGTG  421
+            ||||||| ||||||  |||||||||| |||||||||| ||||||||||||| |||||||
+Sbjct  353  TTAGCTATGTTACT-GGGAAATGAAT-CCCAACAACTGGTTGACATCGTTTGGGGCGTG  409
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 213189
+
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

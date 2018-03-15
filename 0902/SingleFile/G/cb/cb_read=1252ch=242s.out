@@ -1,0 +1,64 @@
+BLASTN 2.2.31+
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= genome/0_398
+
+Length=398
+
+
+ Score = 497 bits (550),  Expect = 4e-145
+ Identities = 381/430 (89%), Gaps = 36/430 (8%)
+ Strand=Plus/Plus
+
+Query  101  CTAGAGACAAGGGTTGCGC-TCGTTGCGGGACTTAACCCAACATCTCACGACACGAGCTG  159
+            ||||||||| | ||| ||| |||||   || ||   |||||||||||||||||||  |||
+Sbjct  3    CTAGAGACAGGAGTTACGCCTCGTTAAAGGGCT---CCCAACATCTCACGACACG--CTG  57
+
+Query  160  ACGACAGCCATGCAGCACCTGTGTCCACTTTCTCTTTCGAGCACCTAATGCATCTCTGCT  219
+            ||||  ||||||||||||||||||||||||||||||||||||||  |||||||||||   
+Sbjct  58   ACGA--GCCATGCAGCACCTGTGTCCACTTTCTCTTTCGAGCAC--AATGCATCTCT---  110
+
+Query  220  TCGTTAGTGGCATGTCAAGGGTAGGTAAGGTTTTTCGCGTTGCATCGAATTAATCCACAT  279
+            ||||| ||||||||||| |||||||||||||||| ||||||||||||||||||||| |||
+Sbjct  111  TCGTT-GTGGCATGTCA-GGGTAGGTAAGGTTTT-CGCGTTGCATCGAATTAATCC-CAT  166
+
+Query  280  CATCCACCGCTTGTGCGGGTCCCCGTCAATTCCTTTGAGTTTTAATCTTGCGACCGTACT  339
+            |||||| |||      ||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  167  CATCCAGCGC------GGGTCCC-GTCAATTCCTTTGAGTTTTAATCTTGCGACCGTACT  219
+
+Query  340  CCCCAGGCGGTCAACTTCACGCGTTAGCTACGTTACTAAGGAAATGAATCCCCAACAACT  399
+            ||||||||||||||||   |||||||||||||||||||   ||||| |||||||||||||
+Sbjct  220  CCCCAGGCGGTCAACT--GCGCGTTAGCTACGTTACTA---AAATG-ATCCCCAACAACT  273
+
+Query  400  AGTTGACATCGTTTAGGGCGTGGACTACCAGGGTATCTAATCCTGTTTGCTCCCCACGCT  459
+             ||||||||||||| |||||||||||| |||||||||||||||||||||||   ||||||
+Sbjct  274  GGTTGACATCGTTT-GGGCGTGGACTA-CAGGGTATCTAATCCTGTTTGCT--TCACGCT  329
+
+Query  460  TTCGTGCATGAGCGTCAGTGTTATCCCAGGAGGCTGCCTTCGCCATCGGTATTC-CTCCA  518
+            ||||||||||||||||||||||||||| || ||||||||||||||||||||||| |||| 
+Sbjct  330  TTCGTGCATGAGCGTCAGTGTTATCCCCGG-GGCTGCCTTCGCCATCGGTATTCACTCCG  388
+
+Query  519  CATCTCTACG  528
+            ||||||||||
+Sbjct  389  CATCTCTACG  398
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 207282
+
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

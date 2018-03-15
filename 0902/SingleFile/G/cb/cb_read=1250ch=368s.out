@@ -1,0 +1,60 @@
+BLASTN 2.2.31+
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= genome/0_391
+
+Length=391
+
+
+ Score = 585 bits (648),  Expect = 1e-171
+ Identities = 384/413 (93%), Gaps = 22/413 (5%)
+ Strand=Plus/Plus
+
+Query  136  CCCAACATCTCACGACACGAGCTGACGACAGCCATGCAGCACCTGTGTCCACTTTCTCTT  195
+            |||||||||||||||||||||||||||||||||| || ||||||||||||||||||||||
+Sbjct  1    CCCAACATCTCACGACACGAGCTGACGACAGCCA-GC-GCACCTGTGTCCACTTTCTCTT  58
+
+Query  196  TCGAGCACCTAATGCATCTCTGCTTCGTTAGTGGCATGTCAAGGGTAGGTAAGGTTTTTC  255
+            ||||||||| ||||||||||||||||||| |||| |||||||||||||||| ||||||||
+Sbjct  59   TCGAGCACCCAATGCATCTCTGCTTCGTT-GTGGTATGTCAAGGGTAGGTA-GGTTTTTC  116
+
+Query  256  GCGTTGCATCGAATTAATCCACATCATCCACCGCTTGTGCGGGTCCCCGTCAATTCCTTT  315
+            ||| |||||||||||||||||||||||||||||||  |       |||||||   |||||
+Sbjct  117  GCGCTGCATCGAATTAATCCACATCATCCACCGCTCAT-------CCCGTCA---CCTTT  166
+
+Query  316  GAGTTTTAATCTTGCGACCGTACTCCCCAGGCGGTCAACTTCACGCGTTAGCTACGTTAC  375
+            ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  167  GAGTTTTAATCTTGCGACCGTAC-CCCCAGGCGGTCAACTTCACGCGTTAGCTACGTTAC  225
+
+Query  376  TAAGGAAATGAATCCCCAACAACTAGTTGACATCGTTTAGGGCGTGGACTACCAGGGTAT  435
+            |   |||||||||||||||||||||||||||||||||||||||||||||  |||||||||
+Sbjct  226  T---GAAATGAATCCCCAACAACTAGTTGACATCGTTTAGGGCGTGGAC--CCAGGGTAT  280
+
+Query  436  CTAATCCTGTTTGCTCCCCACGCTTTCGTGCATGAGCGTCAGTGTTATCCCAGGAGGCTG  495
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  281  CTAATCCTGTTTGCTCCCCACGCTTTCGTGCATGAGCGTCAGTGTTATCCCAGGAGGCTG  340
+
+Query  496  CCTTCGCCATCGGTATTCCTCCACATCTCTACGCatatatatataatatatat  548
+            |||||| ||||||||||||||||||||||||||| ||||||||| || |||||
+Sbjct  341  CCTTCGTCATCGGTATTCCTCCACATCTCTACGC-TATATATATTAT-TATAT  391
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 203523
+
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

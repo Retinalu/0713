@@ -1,0 +1,72 @@
+BLASTN 2.2.31+
+
+
+Query= genome long18s
+
+Length=549
+
+Subject= genome/0_514
+
+Length=514
+
+
+ Score = 587 bits (650),  Expect = 4e-172
+ Identities = 474/548 (86%), Gaps = 44/548 (8%)
+ Strand=Plus/Plus
+
+Query  6    atataatatatataAGGGCCATGAGGACTTGACGTCATCCCCACCTTCCTCCGGTTTGTC  65
+            ||||||||||||||   ||||||||||| ||||||||||||||| |||||||||||||||
+Sbjct  1    ATATAATATATATA---GCCATGAGGACCTGACGTCATCCCCAC-TTCCTCCGGTTTGTC  56
+
+Query  66   ACCGGCAGTCTCTCTAGAGTGCCCTTTCGTAGCAACTAGAGACAAG-GGTTGCGCTC-GT  123
+            |||||||||| ||| ||||||||||| || |||||| ||||||||| || ||||||| | 
+Sbjct  57   ACCGGCAGTC-CTCCAGAGTGCCCTT-CGCAGCAACCAGAGACAAGCGGCTGCGCTCTGC  114
+
+Query  124  TGCGGGACTTAACCCAAC-ATC-TCACGACACGAGCTGACGACAGCCATGCAGCACCT-G  180
+            ||||| |||||||||||| ||| |||  | |||||| |||||  |||||| ||||  | |
+Sbjct  115  TGCGG-ACTTAACCCAACCATCCTCAACAGACGAGCCGACGATTGCCATGTAGCATTTCG  173
+
+Query  181  TGT-CCACTTTCTCTTTCGAGCACCTAATGCATCTCTGCTTCGTTAGTGGCATGTCAAGG  239
+            |   |||||||||||||||||||||||||||   |||||||||||||||||||||||| |
+Sbjct  174  TAAACCACTTTCTCTTTCGAGCACCTAATGC---TCTGCTTCGTTAGTGGCATGTCAAAG  230
+
+Query  240  GTAGGTAAGGTTTTTCGCGTTGCATCGAATTAATCCACATCATCCACCGCTTGTGCGGGT  299
+            |  |||| |  ||||||||||||||||||||||||||  ||||| |||||||||||||||
+Sbjct  231  GGTGGTAGG--TTTTCGCGTTGCATCGAATTAATCCA--TCATC-ACCGCTTGTGCGGGT  285
+
+Query  300  CCCCGTCAATTCCTTTGAGTTTTAATCTTGCGACCGTACTCCCCAGGCGGTCAACTTCAC  359
+            |||||  |||||||||| |||||||||| |||    ||||||||||||||||||||||||
+Sbjct  286  CCCCGATAATTCCTTTG-GTTTTAATCTCGCG----TACTCCCCAGGCGGTCAACTTCAC  340
+
+Query  360  GCGTTAGCTACGTTACTAAGGAAATGAATCCCCAACAACTAGTTGACATCGTTTAGGGCG  419
+            |||||||||||||| ||  |       ||||||||||||||||||||||||||| |||||
+Sbjct  341  GCGTTAGCTACGTTGCTGTG-------ATCCCCAACAACTAGTTGACATCGTTT-GGGCG  392
+
+Query  420  TGGACTACCAGGGTATCTAATCCTGTTTGCTCCCCACGCTTTCGTGCATGAGCGTCAGTG  479
+            ||||||  |||||||||||||||||||||||  ||||||||||  |||||||||||||||
+Sbjct  393  TGGACT-GCAGGGTATCTAATCCTGTTTGCT--CCACGCTTTC--GCATGAGCGTCAGTG  447
+
+Query  480  TTATCCCAGGAGGCTGCCTTCGCCATCGGTATTCCTCCACATCTCTACGC----atatat  535
+            |||||||||||||||| |||||||||||||||||||||||||||||||||     | |||
+Sbjct  448  TTATCCCAGGAGGCTG-CTTCGCCATCGGTATTCCTCCACATCTCTACGCGCGGCTGTAT  506
+
+Query  536  atataata  543
+            ||||||||
+Sbjct  507  ATATAATA  514
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 269574
+
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2
